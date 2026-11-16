@@ -1,0 +1,1475 @@
+{{Short description|List of history of chemical elements}}
+{{sidebar periodic table|expanded=history}}
+{{use dmy dates|date=February 2025}}
+The discoveries of the 118 [[chemical element]]s known to exist as of 2026 are presented here in chronological order. The elements are listed generally in the order in which each was first defined as the pure element, as the exact date of discovery of most elements cannot be accurately determined. There are plans to synthesize more elements, and it is not known how many elements are possible.
+
+Each element's [[list of elements by name|name]], [[atomic number]], year of first report, name of the discoverer, and notes related to the discovery are listed.
+
+== Periodic table of elements ==
+{| border="0" cellpadding="0" cellspacing="2" style="table-layout:fixed; width:100%; background:{{element color|table bg}}; border:1px solid {{element color|table border}}; padding:2px; margin:0 auto;"
+! colspan=20 style="background:{{element color|table title}}" | [[Periodic table]] by era of discovery
+|- style="background:{{element color|table colheader}};"
+!
+! [[alkali metal|1]]
+! [[alkaline earth metal|2]]
+! style="width:2%" | &nbsp;
+! [[group 3 element|3]]
+! [[group 4 element|4]]
+! [[group 5 element|5]]
+! [[group 6 element|6]]
+! [[group 7 element|7]]
+! [[group 8 element|8]]
+! [[group 9 element|9]]
+! [[group 10 element|10]]
+! [[group 11 element|11]]
+! [[group 12 element|12]]
+! [[boron group|13]]
+! [[carbon group|14]]
+! [[pnictogen|15]]
+! [[chalcogen|16]]
+! [[halogen|17]]
+! [[noble gas|18]]
+|-
+! colspan=3 style="text-align:left;" | [[Group (periodic table)|Group]]&nbsp;→
+! colspan=17 | &nbsp;
+|-
+! colspan=3 style="text-align:left;" | ↓&nbsp;[[Period (periodic table)|Period]]
+! colspan=17 | &nbsp;
+|-
+! [[Period 1 element|1]]
+| {{element cell| 1|hydrogen  |H ||gas|Before 1800|Primordial}}
+| colspan="1"  |
+| colspan="11" |
+| colspan="5"  |
+| {{element cell| 2|helium    |He||gas|1850-1899|Primordial}}
+|-
+! [[Period 2 element|2]]
+| {{element cell| 3|lithium   |Li||solid|1800-1849|Primordial}}
+| {{element cell| 4|beryllium |Be||solid|Before 1800|Primordial}}
+| colspan="11" |
+| {{element cell| 5|boron     |B ||solid|Before 1800|Primordial}}
+| {{element cell| 6|carbon    |C ||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell| 7|nitrogen  |N ||gas|Before 1800|Primordial}}
+| {{element cell| 8|oxygen    |O ||gas|Before 1800|Primordial}}
+| {{element cell| 9|fluorine  |F ||gas|Before 1800|Primordial}}
+| {{element cell|10|neon      |Ne||gas|1850-1899|Primordial}}
+|-
+! [[Period 3 element|3]]
+| {{element cell|11|sodium    |Na||solid|Before 1800|Primordial}}
+| {{element cell|12|magnesium |Mg||solid|Before 1800|Primordial}}
+| colspan="11" |
+| {{element cell|13|aluminium |Al||solid|Before 1800|Primordial}}
+| {{element cell|14|silicon   |Si||solid|Before 1800|Primordial}}
+| {{element cell|15|phosphorus|P ||solid|Before 1800|Primordial}}
+| {{element cell|16|sulfur    |S ||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|17|chlorine  |Cl||gas|Before 1800|Primordial}}
+| {{element cell|18|argon     |Ar||gas|1850-1899|Primordial}}
+|-
+! [[Period 4 element|4]]
+| {{element cell|19|potassium |K ||solid|Before 1800|Primordial}}
+| {{element cell|20|calcium   |Ca||solid|Before 1800|Primordial}}
+|
+| {{element cell|21|scandium  |Sc||solid|1850-1899|Primordial}}
+| {{element cell|22|titanium  |Ti||solid|Before 1800|Primordial}}
+| {{element cell|23|vanadium  |V ||solid|1800-1849|Primordial}}
+| {{element cell|24|chromium  |Cr||solid|Before 1800|Primordial}}
+| {{element cell|25|manganese |Mn||solid|Before 1800|Primordial}}
+| {{element cell|26|iron      |Fe||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|27|cobalt    |Co||solid|Before 1800|Primordial}}
+| {{element cell|28|nickel    |Ni||solid|Before 1800|Primordial}}
+| {{element cell|29|copper    |Cu||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|30|zinc      |Zn||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|31|gallium   |Ga||solid|1850-1899|Primordial}}
+| {{element cell|32|germanium |Ge||solid|1850-1899|Primordial}}
+| {{element cell|33|arsenic   |As||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|34|selenium  |Se||solid|1800-1849|Primordial}}
+| {{element cell|35|bromine   |Br||liquid|1800-1849|Primordial}}
+| {{element cell|36|krypton   |Kr||gas|1850-1899|Primordial}}
+|-
+! [[Period 5 element|5]]
+| {{element cell|37|rubidium  |Rb||solid|1850-1899|Primordial}}
+| {{element cell|38|strontium |Sr||solid|Before 1800|Primordial}}
+|
+| {{element cell|39|yttrium   |Y ||solid|Before 1800|Primordial}}
+| {{element cell|40|zirconium |Zr||solid|Before 1800|Primordial}}
+| {{element cell|41|niobium   |Nb||solid|1800-1849|Primordial}}
+| {{element cell|42|molybdenum|Mo||solid|Before 1800|Primordial}}
+| {{element cell|43|technetium|Tc||solid|1900-1949|From decay}}
+| {{element cell|44|ruthenium |Ru||solid|1800-1849|Primordial}}
+| {{element cell|45|rhodium   |Rh||solid|1800-1849|Primordial}}
+| {{element cell|46|palladium |Pd||solid|1800-1849|Primordial}}
+| {{element cell|47|silver    |Ag||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|48|cadmium   |Cd||solid|1800-1849|Primordial}}
+| {{element cell|49|indium    |In||solid|1850-1899|Primordial}}
+| {{element cell|50|tin       |Sn||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|51|antimony  |Sb||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|52|tellurium |Te||solid|Before 1800|Primordial}}
+| {{element cell|53|iodine    |I ||solid|1800-1849|Primordial}}
+| {{element cell|54|xenon     |Xe||gas|1850-1899|Primordial}}
+|-
+! [[Period 6 element|6]]
+| {{element cell|55|caesium   |Cs||solid|1850-1899|Primordial}}
+| {{element cell|56|barium    |Ba||solid|Before 1800|Primordial}}
+| {{element cell-asterisk|1}}
+| {{element cell|71|lutetium  |Lu||solid|1900-1949|Primordial}}
+| {{element cell|72|hafnium   |Hf||solid|1900-1949|Primordial}}
+| {{element cell|73|tantalum  |Ta||solid|1800-1849|Primordial}}
+| {{element cell|74|tungsten  |W ||solid|Before 1800|Primordial}}
+| {{element cell|75|rhenium   |Re||solid|1900-1949|Primordial}}
+| {{element cell|76|osmium    |Os||solid|1800-1849|Primordial}}
+| {{element cell|77|iridium   |Ir||solid|1800-1849|Primordial}}
+| {{element cell|78|platinum  |Pt||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|79|gold      |Au||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|80|mercury   |Hg||Liquid|Antiquity to Middle Ages|Primordial|link=Mercury (element)}}
+| {{element cell|81|thallium  |Tl||solid|1850-1899|Primordial}}
+| {{element cell|82|lead      |Pb||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|83|bismuth   |Bi||solid|Antiquity to Middle Ages|Primordial}}
+| {{element cell|84|polonium  |Po||solid|1850-1899|From decay}}
+| {{element cell|85|astatine  |At||solid|1900-1949|From decay}}
+| {{element cell|86|radon     |Rn||gas|1850-1899|From decay}}
+|-
+! [[Period 7 element|7]]
+| {{element cell|87|francium      |Fr||solid|1900-1949|From decay}}
+| {{element cell|88|radium        |Ra||solid|1850-1899|From decay}}
+| {{element cell-asterisk|2vertical}}
+| {{element cell|103|lawrencium   |Lr||unknown phase|1950-1999|Synthetic}}
+| {{element cell|104|rutherfordium|Rf||unknown phase|1950-1999|Synthetic}}
+| {{element cell|105|dubnium      |Db||unknown phase|1950-1999|Synthetic}}
+| {{element cell|106|seaborgium   |Sg||unknown phase|1950-1999|Synthetic}}
+| {{element cell|107|bohrium      |Bh||unknown phase|1950-1999|Synthetic}}
+| {{element cell|108|hassium      |Hs||unknown phase|1950-1999|Synthetic}}
+| {{element cell|109|meitnerium   |Mt||unknown phase|1950-1999|Synthetic}}
+| {{element cell|110|darmstadtium |Ds||unknown phase|1950-1999|Synthetic}}
+| {{element cell|111|roentgenium  |Rg||unknown phase|1950-1999|Synthetic}}
+| {{element cell|112|copernicium  |Cn||unknown phase|1950-1999|Synthetic}}
+| {{element cell|113|nihonium     |Nh||unknown phase|2000-present|Synthetic}}
+| {{element cell|114|flerovium    |Fl||unknown phase|1950-1999|Synthetic}}
+| {{element cell|115|moscovium    |Mc||unknown phase|2000-present|Synthetic}}
+| {{element cell|116|livermorium  |Lv||unknown phase|2000-present|Synthetic}}
+| {{element cell|117|tennessine   |Ts||unknown phase|2000-present|Synthetic}}
+| {{element cell|118|oganesson    |Og||unknown phase|2000-present|Synthetic}}
+|-
+| colspan=20 style="line-height:50%;" | &nbsp;
+|-
+|  colspan="4" {{element cell-asterisk|1|align=right}}
+| {{element cell|57|lanthanum   |La||solid|1800-1849|Primordial}}
+| {{element cell|58|cerium      |Ce||solid|1800-1849|Primordial}}
+| {{element cell|59|praseodymium|Pr||solid|1850-1899|Primordial}}
+| {{element cell|60|neodymium   |Nd||solid|1800-1849|Primordial}}
+| {{element cell|61|promethium  |Pm||solid|1900-1949|From decay}}
+| {{element cell|62|samarium    |Sm||solid|1850-1899|Primordial}}
+| {{element cell|63|europium    |Eu||solid|1850-1899|Primordial}}
+| {{element cell|64|gadolinium  |Gd||solid|1850-1899|Primordial}}
+| {{element cell|65|terbium     |Tb||solid|1800-1849|Primordial}}
+| {{element cell|66|dysprosium  |Dy||solid|1850-1899|Primordial}}
+| {{element cell|67|holmium     |Ho||solid|1850-1899|Primordial}}
+| {{element cell|68|erbium      |Er||solid|1800-1849|Primordial}}
+| {{element cell|69|thulium     |Tm||solid|1850-1899|Primordial}}
+| {{element cell|70|ytterbium   |Yb||solid|1850-1899|Primordial}}
+| &nbsp;
+|-
+|  colspan="4" {{element cell-asterisk|2vertical|align=right}}
+| {{element cell|89|actinium    |Ac||solid|1900-1949|From decay}}
+| {{element cell|90|thorium     |Th||solid|1800-1849|Primordial}}
+| {{element cell|91|protactinium|Pa||solid|1900-1949|From decay}}
+| {{element cell|92|uranium     |U ||solid|Before 1800|Primordial}}
+| {{element cell|93|neptunium   |Np||solid|1900-1949|From decay}}
+| {{element cell|94|plutonium   |Pu||solid|1900-1949|From decay}}
+| {{element cell|95|americium   |Am||solid|1900-1949|Synthetic}}
+| {{element cell|96|curium      |Cm||solid|1900-1949|Synthetic}}
+| {{element cell|97|berkelium   |Bk||solid|1900-1949|Synthetic}}
+| {{element cell|98|californium |Cf||solid|1950-1999|Synthetic}}
+| {{element cell|99|einsteinium |Es||solid|1950-1999|Synthetic}}
+| {{element cell|100|fermium    |Fm||unknown phase|1950-1999|Synthetic}}
+| {{element cell|101|mendelevium|Md||unknown phase|1950-1999|Synthetic}}
+| {{element cell|102|nobelium   |No||unknown phase|1950-1999|Synthetic}}
+| &nbsp;
+|-
+| colspan=20 style="line-height:50%;" | &nbsp;
+|-
+| colspan=20|
+{{Periodic table legend
+|theme1=Age of discovery
+|theme2=occurrence}}
+|}
+
+== Graphical timeline ==
+<timeline>
+ImageSize = width:1600 height:120 # barincrement:0
+PlotArea  = top:70 bottom:30 right:10 left:10
+AlignBars = justify
+Colors = 
+  id:gray1  value:gray(0.85) legend:Independent
+  id:gray2  value:gray(0.95)
+DateFormat = yyyy
+Period = from:1665 till:2026
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1670
+ScaleMinor = unit:year increment:1 start:1665
+TextData =
+  textcolor:black fontsize:s
+  pos:(10,110) text:"[[Gold|Au]]: 40000 BC"
+  pos:(10,100) text:"[[Carbon|C]]: 26000 BC"
+  pos:(10,90) text:"[[Copper|Cu]]: 9000 BC"
+  pos:(10,80) text:"[[Lead|Pb]]: 7000 BC"
+  pos:(10,70) text:"[[Silver|Ag]],"
+  pos:(28,70) text:"[[Iron|Fe]]: by 5000 BC"
+  pos:(110,110) text:"[[Tin|Sn]]: 3500 BC"
+  pos:(110,100) text:"[[Antimony|Sb]]: 3000 BC"
+  pos:(110,90) text:"[[Sulfur|S]]: by 2000 BC"
+  pos:(110,80) text:"[[Mercury (element)|Hg]]: 1500 BC"
+  pos:(110,70) text:"[[Zinc|Zn]]: by 1000 BC"
+  pos:(200,110) text:"[[Platinum|Pt]]: c. 600 BC–AD 200"
+  # pos:(200,110) text:"[[Gold|Au]]: 6000 BC"
+  pos:(200,100) text:"[[Arsenic|As]]: c. AD 300"
+  pos:(200,90) text:"[[Bismuth|Bi]]: c. 1500"
+PlotData = 
+  # bar:elements width:20 from:1660 till:2020
+  align:center fontsize:S width:15 shift:(0,10)
+  at:1671 mark:(line,black) text:"[[Hydrogen|H]]"
+  shift:(0,10)
+  at:1868 mark:(line,black) text:"[[Helium|He]]"
+  shift:(0,10)
+  at:1817 mark:(line,black) text:"[[Lithium|Li]]"
+  shift:(0,20)
+  at:1798 mark:(line,black) text:"[[Beryllium|Be]]"
+  shift:(-2,10)
+  at:1787 mark:(line,black) text:"[[Boron|B]]"
+  shift:(0,40)
+  at:1772 mark:(line,black) text:"[[Nitrogen|N]]"
+  shift:(0,20)
+  at:1771 mark:(line,black) text:"[[Oxygen|O]]"
+  shift:(0,30)
+  at:1771 mark:(line,black) text:"[[Fluorine|F]]"
+  shift:(0,30)
+  at:1898 mark:(line,black) text:"[[Neon|Ne]]"
+  shift:(0,10)
+  at:1702 mark:(line,black) text:"[[Sodium|Na]]"
+  at:1755 mark:(line,black) text:"[[Magnesium|Mg]]"
+  at:1746 mark:(line,black) text:"[[Aluminum|Al]]"
+  shift:(0,10)
+  at:1739 mark:(line,black) text:"[[Silicon|Si]]"
+  at:1669 mark:(line,black) text:"[[Phosphorus|P]]"
+  shift:(0,10)
+  at:1774 mark:(line,black) text:"[[Chlorine|Cl]]"
+  shift:(0,10)
+  at:1894 mark:(line,black) text:"[[Argon|Ar]]"
+  shift:(0,20)
+  at:1702 mark:(line,black) text:"[[Potassium|K]]"
+  shift:(0,20)
+  at:1739 mark:(line,black) text:"[[Calcium|Ca]]"
+  shift:(0,30)
+  at:1879 mark:(line,black) text:"[[Scandium|Sc]]"
+  shift:(0,10)
+  at:1791 mark:(line,black) text:"[[Titanium|Ti]]"
+  shift:(0,10)
+  at:1801 mark:(line,black) text:"[[Vanadium|V]]"
+  shift:(0,10)
+  at:1797 mark:(line,black) text:"[[Chromium|Cr]]"
+  shift:(0,10)
+  at:1770 mark:(line,black) text:"[[Manganese|Mn]]"
+  shift:(0,10)
+  at:1735 mark:(line,black) text:"[[Cobalt|Co]]"
+  at:1751 mark:(line,black) text:"[[Nickel|Ni]]"
+  shift:(0,10)
+  at:1875 mark:(line,black) text:"[[Gallium|Ga]]"
+  shift:(0,20)
+  at:1886 mark:(line,black) text:"[[Germanium|Ge]]"
+  shift:(0,20)
+  at:1817 mark:(line,black) text:"[[Selenium|Se]]"
+  shift:(0,10)
+  at:1825 mark:(line,black) text:"[[Bromine|Br]]"
+  shift:(0,40)
+  at:1898 mark:(line,black) text:"[[Krypton|Kr]]"
+  shift:(0,20)
+  at:1861 mark:(line,black) text:"[[Rubidium|Rb]]"
+  shift:(-2,30)
+  at:1790 mark:(line,black) text:"[[Strontium|Sr]]"
+  shift:(0,10)
+  at:1794 mark:(line,black) text:"[[Yttrium|Y]]"
+  shift:(0,10)
+  at:1789 mark:(line,black) text:"[[Zirconium|Zr]]"
+  shift:(0,20)
+  at:1801 mark:(line,black) text:"[[Niobium|Nb]]"
+  shift:(0,10)
+  at:1778 mark:(line,black) text:"[[Molybdenum|Mo]]"
+  shift:(0,10)
+  at:1937 mark:(line,black) text:"[[Technetium|Tc]]"
+  shift:(0,10)
+  at:1844 mark:(line,black) text:"[[Ruthenium|Ru]]"
+  at:1804 mark:(line,black) text:"[[Rhodium|Rh]]"
+  shift:(0,30)
+  at:1802 mark:(line,black) text:"[[Palladium|Pd]]"
+  shift:(0,30)
+  at:1817 mark:(line,black) text:"[[Cadmium|Cd]]"
+  shift:(0,10)
+  at:1863 mark:(line,black) text:"[[Indium|In]]"
+  shift:(0,20)
+  at:1782 mark:(line,black) text:"[[Tellurium|Te]]"
+  shift:(0,10)
+  at:1811 mark:(line,black) text:"[[Iodine|I]]"
+  shift:(0,50)
+  at:1898 mark:(line,black) text:"[[Xenon|Xe]]"
+  shift:(0,10)
+  at:1860 mark:(line,black) text:"[[Cesium|Cs]]"
+  shift:(0,50)
+  at:1772 mark:(line,black) text:"[[Barium|Ba]]"
+  shift:(0,10)
+  at:1838 mark:(line,black) text:"[[Lanthanum|La]]"
+  shift:(0,50)
+  at:1803 mark:(line,black) text:"[[Cerium|Ce]]"
+  shift:(0,10)
+  at:1885 mark:(line,black) text:"[[Praseodymium|Pr]]"
+  shift:(0,20)
+  at:1841 mark:(line,black) text:"[[Neodymium|Nd]]"
+  shift:(0,10)
+  at:1945 mark:(line,black) text:"[[Promethium|Pm]]"
+  shift:(0,40)
+  at:1879 mark:(line,black) text:"[[Samarium|Sm]]"
+  shift:(0,20)
+  at:1896 mark:(line,black) text:"[[Europium|Eu]]"
+  shift:(0,60)
+  at:1880 mark:(line,black) text:"[[Gadolinium|Gd]]"
+  shift:(0,30)
+  at:1843 mark:(line,black) text:"[[Terbium|Tb]]"
+  shift:(0,30)
+  at:1886 mark:(line,black) text:"[[Dysprosium|Dy]]"
+  shift:(0,10)
+  at:1878 mark:(line,black) text:"[[Holmium|Ho]]"
+  shift:(0,40)
+  at:1843 mark:(line,black) text:"[[Erbium|Er]]"
+  shift:(0,50)
+  at:1879 mark:(line,black) text:"[[Thulium|Tm]]"
+  shift:(0,20)
+  at:1878 mark:(line,black) text:"[[Ytterbium|Yb]]"
+  shift:(0,10)
+  at:1906 mark:(line,black) text:"[[Lutetium|Lu]]"
+  shift:(0,10)
+  at:1922 mark:(line,black) text:"[[Hafnium|Hf]]"
+  shift:(0,40)
+  at:1802 mark:(line,black) text:"[[Tantalum|Ta]]"
+  shift:(0,10)
+  at:1781 mark:(line,black) text:"[[Tungsten|W]]"
+  shift:(0,20)
+  at:1908 mark:(line,black) text:"[[Rhenium|Re]]"
+  shift:(0,60)
+  at:1803 mark:(line,black) text:"[[Osmium|Os]]"
+  shift:(0,70)
+  at:1803 mark:(line,black) text:"[[Iridium|Ir]]"
+  shift:(0,30)
+  at:1861 mark:(line,black) text:"[[Thallium|Tl]]"
+  shift:(0,60)
+  at:1898 mark:(line,black) text:"[[Polonium|Po]]"
+  shift:(0,30)
+  at:1940 mark:(line,black) text:"[[Astatine|At]]"
+  shift:(0,10)
+  at:1899 mark:(line,black) text:"[[Radon|Rn]]"
+  shift:(0,20)
+  at:1939 mark:(line,black) text:"[[Francium|Fr]]"
+  shift:(0,70)
+  at:1898 mark:(line,black) text:"[[Radium|Ra]]"
+  shift:(0,10)
+  at:1902 mark:(line,black) text:"[[Actinium|Ac]]"
+  shift:(0,10)
+  at:1829 mark:(line,black) text:"[[Thorium|Th]]"
+  shift:(0,10)
+  at:1913 mark:(line,black) text:"[[Protactinium|Pa]]"
+  shift:(0,20)
+  at:1789 mark:(line,black) text:"[[Uranium|U]]"
+  shift:(0,40)
+  at:1940 mark:(line,black) text:"[[Neptunium|Np]]"
+  shift:(0,10)
+  at:1941 mark:(line,black) text:"[[Plutonium|Pu]]"
+  shift:(0,30)
+  at:1944 mark:(line,black) text:"[[Americium|Am]]"
+  shift:(0,20)
+  at:1944 mark:(line,black) text:"[[Curium|Cm]]"
+  shift:(0,10)
+  at:1949 mark:(line,black) text:"[[Berkelium|Bk]]"
+  shift:(0,20)
+  at:1950 mark:(line,black) text:"[[Californium|Cf]]"
+  shift:(0,10)
+  at:1952 mark:(line,black) text:"[[Einsteinium|Es]]"
+  shift:(0,20)
+  at:1953 mark:(line,black) text:"[[Fermium|Fm]]"
+  shift:(0,10)
+  at:1955 mark:(line,black) text:"[[Mendelevium|Md]]"
+  shift:(0,10)
+  at:1965 mark:(line,black) text:"[[Nobelium|No]]"
+  shift:(0,10)
+  at:1961 mark:(line,black) text:"[[Lawrencium|Lr]]"
+  shift:(0,10)
+  at:1969 mark:(line,black) text:"[[Rutherfordium|Rf]]"
+  shift:(0,20)
+  at:1970 mark:(line,black) text:"[[Dubnium|Db]]"
+  shift:(0,10)
+  at:1974 mark:(line,black) text:"[[Seaborgium|Sg]]"
+  shift:(0,10)
+  at:1981 mark:(line,black) text:"[[Bohrium|Bh]]"
+  shift:(0,10)
+  at:1984 mark:(line,black) text:"[[Hassium|Hs]]"
+  shift:(0,20)
+  at:1982 mark:(line,black) text:"[[Meitnerium|Mt]]"
+  shift:(0,10)
+  at:1994 mark:(line,black) text:"[[Darmstadtium|Ds]]"
+  shift:(0,20)
+  at:1994 mark:(line,black) text:"[[Roentgenium|Rg]]"
+  shift:(0,30)
+  at:1996 mark:(line,black) text:"[[Copernicium|Cn]]"
+  shift:(0,20)
+  at:2003 mark:(line,black) text:"[[Nihonium|Nh]]"
+  shift:(0,10)
+  at:1999 mark:(line,black) text:"[[Flerovium|Fl]]"
+  shift:(0,30)
+  at:2003 mark:(line,black) text:"[[Moscovium|Mc]]"
+  shift:(0,20)
+  at:2000 mark:(line,black) text:"[[Livermorium|Lv]]"
+  shift:(0,10)
+  at:2009 mark:(line,black) text:"[[Tennessine|Ts]]"
+  shift:(0,10)
+  at:2002 mark:(line,black) text:"[[Oganesson|Og]]"
+</timeline>
+
+== Cumulative diagram ==
+[[File:Cumulative diagram of element discoveries.png|center|alt=The diagram shows a quasi-linear rate of element discoveries from around 1750 to 2023. The invention of periodic table by Mendeleev is shown for reference in 1869, when about 50% of elements (up to period 7) had already been discovered.|thumb|652x652px|Cumulative diagram of element discoveries]]
+
+== Pre-modern and early modern discoveries ==
+{{sticky header}}
+{| class="wikitable sortable sticky-header"
+|-
+! [[Atomic number|Z]]
+! Element
+! data-sort-type="number"|Earliest use
+! data-sort-type="number"|Oldest <br />existing <br />sample
+! Discoverer(s)
+! Place of <br />oldest <br />sample
+! class="unsortable" | Notes
+|-
+| 79
+| [[Gold]]
+| data-sort-value=-40000|40000&nbsp;BC
+| data-sort-value=-4400|4600&nbsp;BC – 4200&nbsp;BC
+| Earliest humans
+| [[Varna Necropolis]]
+| Small amounts of natural gold have been found in Spanish caves used during the late [[Paleolithic]] period, {{Circa|40000 BC}}.<ref>{{Cite book |last=Yannopoulos |first=J. C. |url=https://books.google.com/books?id=hE7uBwAAQBAJ&dq=history+of+gold+begins+in+antiquity.+Bits+of+gold+were+found+in+Spanish+caves+that+were+used+by+Paleolithic+people+around+40,000+B.C.&pg=PP8 |title=The Extractive Metallurgy of Gold |publisher=Springer US |year=1991 |isbn=978-1-4684-8427-4 |location=Boston, MA |page=ix |language=en |doi=10.1007/978-1-4684-8425-0}}</ref> The earliest gold artifacts dating to 4600&nbsp;BC to 4200&nbsp;BC were discovered at the site of [[Varna Necropolis]], [[Bulgaria]].<ref>{{cite book | last1=Grande | first1=L. | last2=Augustyn | first2=A. | last3=Weinstein | first3=J. | title=Gems and Gemstones: Timeless Natural Beauty of the Mineral World | publisher=University of Chicago Press | year=2009 | isbn=978-0-226-30511-0 | url=https://books.google.com/books?id=RnE9Fa4pbn0C&pg=PA290 | access-date=2025-02-23 |page=290}}</ref> Recognised as an element by Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy in 1787.<ref name=Miskowiec/>
+|-
+| 6
+| [[Carbon]]
+| data-sort-value=-26000|26000&nbsp;BC
+| data-sort-value=-26000|26000&nbsp;BC
+| Earliest humans
+|
+| Charcoal and soot were known to the earliest humans, with the oldest known [[charcoal (art)|charcoal paintings]] dating to about 28000 years ago, e.g. [[Gabarnmung]] in Australia.<ref name=Miskowiec/><ref name=CSM_rockart>{{cite news|last=McGuirk|first=Rod|title=Australian rock art among the world's oldest|url=https://www.csmonitor.com/Science/2012/0618/Australian-rock-art-among-world-s-oldest|access-date=30 December 2012|newspaper=Christian Science Monitor|date=18 June 2012|agency=AP}}</ref> The earliest known industrial use of charcoal was for the [[Carbothermic reaction|reduction]] of copper, zinc, and tin ores in the manufacture of bronze, by the Egyptians and Sumerians.<ref>{{cite web |url=http://www.caer.uky.edu/carbon/history/carbonhistory.shtml |title=History of Carbon and Carbon Materials – Center for Applied Energy Research – University of Kentucky |publisher=Caer.uky.edu |access-date=2008-09-12 |archive-url=https://web.archive.org/web/20121101085829/http://www.caer.uky.edu/carbon/history/carbonhistory.shtml |archive-date=2012-11-01 }}</ref> [[Diamond]]s were probably known as early as 2500&nbsp;BC.<ref>{{cite news | url = https://news.bbc.co.uk/2/hi/science/nature/4555235.stm | title = Chinese made first use of diamond | work = BBC News | date=  17 May 2005 | access-date = 2007-03-21}}</ref> True chemical analyses were made in the 18th century,<ref>{{cite book |last=Ferchault de Réaumur |first=R-A |year=1722 |title=L'art de convertir le fer forgé en acier, et l'art d'adoucir le fer fondu, ou de faire des ouvrages de fer fondu aussi finis que le fer forgé (English translation from 1956) |location=Paris, Chicago}}</ref> and in 1772 [[Antoine Lavoisier]] demonstrated that diamond, graphite, and charcoal are all composed of the same substance.<ref name=Miskowiec/> In 1787, de Morveau, Fourcroy, and Lavoisier listed carbon (in French, ''carbone'') as an element, distinguishing it from coal (in French, ''charbon'').<ref name=Miskowiec/>
+|-
+| 29
+| [[Copper]]
+| data-sort-value=-9888|9000&nbsp;BC
+| data-sort-value=-6000|6000&nbsp;BC
+| [[Copper#History|Middle East]]
+| [[Asia Minor]]
+| It was originally obtained as a native metal and later from the smelting of ores. Earliest estimates of the discovery of copper suggest around 9000 BC in the Middle East. It was one of the most important materials to humans throughout the [[Chalcolithic]] and [[Bronze Age]]s. Copper beads dating from 6000&nbsp;BC have been found in [[Çatalhöyük]], [[Anatolia]]<ref>{{cite web| url = http://www.csa.com/discoveryguides/copper/overview.php| title = CSA – Discovery Guides, A Brief History of Copper| access-date = 2008-05-19| archive-date = 2015-02-03| archive-url = https://web.archive.org/web/20150203154021/http://www.csa.com/discoveryguides/copper/overview.php}}</ref> and the [[archaeological]] site of Belovode on the [[Rudnik (mountain)|Rudnik mountain]] in [[Serbia]] contains the world's oldest securely dated evidence of copper smelting from 5000&nbsp;BC.<ref>{{cite web|url=http://www.ucl.ac.uk/archaeology/calendar/articles/20100924|title=Serbian site may have hosted first copper makers|publisher=UCL Institute of Archaeology|date=23 September 2010|website=UCL.ac.uk|access-date=22 April 2017|archive-date=28 March 2017|archive-url=https://web.archive.org/web/20170328065919/http://www.ucl.ac.uk/archaeology/calendar/articles/20100924}}</ref><ref name="archaeology.ws">{{cite web|title=Serbian site may have hosted first copper makers|author=Bruce Bower|date=17 July 2010|work=ScienceNews|url=http://www.sciencenews.org/view/generic/id/60563/description/Serbian_site_may_have_hosted_first_copper_makers|access-date=22 April 2017|archive-date=8 May 2013|archive-url=https://web.archive.org/web/20130508005006/http://www.sciencenews.org/view/generic/id/60563/description/Serbian_site_may_have_hosted_first_copper_makers}}</ref> Recognised as an element by [[Louis Guyton de Morveau]],  [[Antoine Lavoisier]], [[Claude Berthollet]], and [[Antoine-François de Fourcroy]] in 1787.<ref name=Miskowiec/> 
+|-
+| 82
+| [[Lead]]
+| data-sort-value=-7000|7000&nbsp;BC
+| data-sort-value=-3800|3800&nbsp;BC
+| [[Lead#History|Asia Minor]]
+| [[Abydos, Egypt]]
+| It is believed that lead smelting began at least 9,000 years ago, and the oldest known artifact of lead is a statuette found at the temple of [[Osiris]] on the site of Abydos dated around 3800&nbsp;BC.<ref>{{cite web |url=http://www.lead.org.au/lanv2n3/lanv2n3-22.html |title=The History of Lead – Part 3 |publisher=Lead.org.au |access-date=2008-09-12 |archive-url=https://web.archive.org/web/20041018173952/http://www.lead.org.au/lanv2n3/lanv2n3-22.html |archive-date=2004-10-18 }}</ref> Recognised as an element by Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy in 1787.<ref name=Miskowiec/>
+|-
+| 47
+| [[Silver]]
+| data-sort-value=-5001|Before 5000&nbsp;BC
+| data-sort-value=-4000|ca. 4000&nbsp;BC
+| [[Silver#History|Asia Minor]]
+| [[Asia Minor]]
+| Estimated to have been discovered in [[Asia Minor]] shortly after copper and gold.<ref>{{cite web| url = http://elements.vanderkrogt.net/element.php?sym=ag| title = 47 Silver}}</ref><ref>{{cite web |url=http://chemistry.about.com/od/elementfacts/a/silver.htm |title=Silver Facts – Periodic Table of the Elements |work=About.com Education |publisher=Chemistry.about.com |access-date=2008-09-12 |archive-date=2016-11-21 |archive-url=https://web.archive.org/web/20161121190719/http://chemistry.about.com/od/elementfacts/a/silver.htm }}</ref> Recognised as an element by Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy in 1787.<ref name=Miskowiec/>
+|-
+| 26
+| [[Iron]]
+| data-sort-value=-5001|Before 5000&nbsp;BC
+| data-sort-value=-4000|4000&nbsp;BC
+| [[Ferrous metallurgy|Middle East]]
+| [[Egypt]]
+| There is evidence that iron was known from before 5000 BC.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=fe |title=26 Iron  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> The oldest known iron objects used by humans are some beads of [[meteoric iron]], made in Egypt in about 4000 BC. The discovery of smelting around 3000 BC led to the start of the [[Iron Age]] around 1200 BC<ref>{{Cite book|last = Weeks|first = Mary Elvira|author-link=Mary Elvira Weeks|author2=Leichester, Henry M. |year = 1968|title = Discovery of the Elements|publisher = Journal of Chemical Education|location = Easton, PA|chapter = Elements Known to the Ancients|pages = 29–40| lccn =68-15217|isbn = 0-7661-3872-0}}</ref> and the prominent use of iron for tools and weapons.<ref>{{cite web|url=http://courses.wcupa.edu/jones/his101%5Cmisc%5Cpersia.htm |title=Notes on the Significance of the First Persian Empire in World History  |publisher=Courses.wcupa.edu |access-date=2008-09-12}}</ref> Recognised as an element by Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy in 1787.<ref name=Miskowiec/>
+|-
+| 50
+| [[Tin]]
+| data-sort-value=-3500|3500&nbsp;BC
+| data-sort-value=-2000|2000&nbsp;BC
+| [[Asia Minor]]
+| [[Kestel (archaeological site)|Kestel]]
+| First smelted in combination with copper around 3500&nbsp;BC to produce [[bronze]] (and thus giving place to the [[Bronze Age]] in those places where [[Iron Age]] did not intrude directly on [[Neolithic]] of the [[Stone Age]]).{{clarify|date=March 2018}}<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=sn |title=50 Tin  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> [[Kestel (archaeological site)|Kestel]], in southern [[Turkey]], is the site of an ancient [[Cassiterite]] mine that was used from 3250 to 1800 BC.<ref>{{citation| last1=Hauptmann| first1=A.| last2=Maddin| first2=R.| last3=Prange|first3=M.|jstor=1357777| title=On the structure and composition of copper and tin ingots excavated from the shipwreck of Uluburun| year=2002|periodical=Bulletin of the American School of Oriental Research|volume=328| issue=328|at=pp. 1–30| publisher=American Schools of Oriental Research}}</ref> The oldest artifacts date from around 2000 BC.<ref>{{cite web |url=http://neon.mems.cmu.edu/cramb/Processing/history.html |title=History of Metals |publisher=Neon.mems.cmu.edu |access-date=2008-09-12 |archive-url=https://web.archive.org/web/20070108015008/http://neon.mems.cmu.edu/cramb/Processing/history.html |archive-date=2007-01-08 }}</ref> Recognised as an element by Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy in 1787.<ref name=Miskowiec/>
+|-
+| 51
+| [[Antimony]]
+| data-sort-value=-3000|3000&nbsp;BC
+| data-sort-value=-3000|3000&nbsp;BC
+| Sumerians
+| Middle East
+| An artifact, said to be part of a vase, made of very pure antimony dating to about 3000&nbsp;BC was found at [[Girsu|Telloh]], [[Chaldea]] (part of present-day [[Iraq]]).<ref name="moorey">{{cite book|last=Moorey|first=P. R. S.|date=1994|title=Ancient Mesopotamian Materials and Industries: the Archaeological Evidence|place=New York|publisher=Clarendon Press|page=241|url=https://books.google.com/books?id=P_Ixuott4doC&pg=PA241|isbn=978-1-57506-042-2}}</ref> [[Pedanius Dioscorides|Dioscorides]] and [[Pliny the Elder|Pliny]] both describe the accidental production of metallic antimony from [[stibnite]], but only seem to recognize the metal as lead.<ref>{{cite book|last1=Healy|first1=John F.|title=Pliny the Elder on Science and Technology|date=1999|publisher=Oxford University Press|isbn=978-0-19-814687-2|url=https://books.google.com/books?id=Hz6D4H-s5psC|access-date=26 January 2018}}</ref> The intentional isolation of antimony is described in the works attributed to the Muslim alchemist [[Jabir ibn Hayyan]] ({{circa|850}}–950).<ref name=Sarton /> In Europe, the metal was being produced and used by 1540, when it was described by Vannoccio Biringuccio.<ref>{{cite book|last1=Biringuccio|first1=Vannoccio|title=Pirotechnia|date=1959|publisher=Courier Corporation|isbn=978-0-486-26134-8|pages=91–92|url=https://books.google.com/books?id=HKVGDwAAQBAJ|access-date=31 January 2018|quote=Probably metallic antimony was being produced in Germany in Biringuccio's time, for later in this chapter he mentions importation of cakes of the smelted (or melted) metal to alloy with pewter or bell metal.}}</ref> Described again by [[Georgius Agricola]] ''[[De re metallica]]'' in 1556. Probably first recognised as an element by Lavoisier in 1787.<ref name=Miskowiec/>
+|-
+| 16
+| [[Sulfur]]
+| data-sort-value=-2001|Before 2000&nbsp;BC
+| 
+| [[Sulfur#History|Middle East]]
+| [[Middle East]]
+| First used at least 4,000 years ago.<ref>{{cite web|url=http://www.georgiagulfsulfur.com/history.htm |title=Sulfur History |publisher=Georgiagulfsulfur.com |access-date=2008-09-12 |archive-url=https://web.archive.org/web/20080916201636/http://georgiagulfsulfur.com/history.htm |archive-date=2008-09-16 }}</ref> According to the [[Ebers Papyrus]], a sulfur ointment was used in ancient [[Egypt]] to treat granular eyelids. (The Ebers papyrus was written c. 1550 BC, but is believed to have been copied from earlier texts.)<ref name=Ebers1875>{{cite book |title=Papyros Ebers: Das hermetische Buch über die Arzeneimittel der alten Ägypter in hieratischer Schrift, herausgegeben mit Inhaltsangabe und Einleitung versehen von Georg Ebers, mit Hieroglyphisch-Lateinischem Glossar von Ludwig Stern, mit Unterstützung des Königlich Sächsischen Cultusministerium |language=de |edition=1 |volume=2 |last=Stern |first=Ludwig Christian |editor1-last=Ebers |editor1-first=Georg |editor-link=Georg Ebers |publisher=W. Englemann |location=[[Leipzig]] |year=1875 |url=https://books.google.com/books?id=LjBxSQAACAAJ&q=Papyros+Ebers:+Das+hermetische+Buch+%C3%BCber+die+Arzeneimittel+der+alten+%C3%84gypter+in+hieratischer+Schrift+Georg+Ebers |access-date=2010-09-18 |lccn=25012078 }}{{Dead link|date=February 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite book |url= https://books.google.com/books?id=ed0yC98aAKYC&pg=PA242 |title= Archaeomineralogy |isbn= 978-3-540-78593-4 |page= 242 |last1= Rapp |first1= George Robert |date= 4 February 2009|publisher= Springer }}</ref> Designated as one of the two elements of which all metals are composed in the [[sulfur-mercury theory of metals]], first described in pseudo-Apollonius of Tyana's ''[[Sirr al-khaliqa]]'' ('Secret of Creation') and in the works attributed to [[Jabir ibn Hayyan]] (both 8th or 9th century).<ref>{{Cite book|last=Kraus|first=Paul|author-link=Paul Kraus (Arabist)|year=1942–1943|title=Jâbir ibn Hayyân: Contribution à l'histoire des idées scientifiques dans l'Islam. I. Le corpus des écrits jâbiriens. II. Jâbir et la science grecque|publisher=Institut Français d'Archéologie Orientale|location=Cairo|oclc=468740510|isbn=978-3-487-09115-0}} vol. II, p. 1, note 1; {{Cite book|last=Weisser|first=Ursula|editor1-first=Otto|editor1-last=Spies|title=Das "Buch über das Geheimnis der Schöpfung" von Pseudo-Apollonios von Tyana|publisher=[[De Gruyter]]|year=1980|location=Berlin|doi=10.1515/9783110866933|isbn=978-3-11-007333-1}} p. 199. On the dating and historical background of the ''Sirr al-khalīqa'', see Kraus 1942−1943, vol. II, pp. 270–303; Weisser 1980, pp. 39–72. On the dating of the writings attributed to Jābir, see Kraus 1942−1943, vol. I, pp. xvii–lxv. A more detailed and speculative account of the sulfur-mercury theory of metals is given by {{Cite book | publisher = Clarendon Press | last = Holmyard | first = E.J. | title = Makers of Chemistry | location = Oxford | year = 1931 | url = https://archive.org/details/makersofchemistr029725mbp | pages = [https://archive.org/details/makersofchemistr029725mbp/page/n76 57]–58}}</ref> Designated as a universal element (one of the ''[[tria prima]]'') by [[Paracelsus]] in the early 16th century.<!-- Sources as the target page [[tria prima]] (redirect to [[Paracelsus#Chemistry]]) --> Recognized as an element by Lavoisier in 1777, which was supported by [[John Dalton]] in 1808 and confirmed by [[Joseph Gay-Lussac]] and [[Louis Jacques Thénard]] in 1810.<ref name=Miskowiec/>
+|-
+| 80
+| [[Mercury (element)|Mercury]]
+| data-sort-value=-1500|1500&nbsp;BC
+| data-sort-value=-1500|1500&nbsp;BC
+| [[Mercury (element)#History|Egyptians]]
+| [[Egypt]]
+| [[Cinnabar]] (the most common mineral form of [[mercury(II) sulfide]], HgS) was used as a pigment from prehistory, dating as far back as the 9th millennium BC in the Middle East.<ref>{{cite journal |last1=Gliozzo |first1=Elisabetta |date=2021 |title=Pigments – Mercury-based red (cinnabar-vermilion) and white (calomel) and their degradation products |journal=Archaeological and Anthropological Sciences |volume=13 |issue=210 |article-number=210 |doi=10.1007/s12520-021-01402-4 |doi-access=free |bibcode=2021ArAnS..13..210G |hdl=2158/1346784 |hdl-access=free }}</ref> Cinnabar deposits in Turkey, exploited from 8000 years ago, also contain minor amounts of mercury metal.<ref>{{cite report |author= |last1=Yıldız |first1=Mehmet |last2=Bailey |first2=Edgar H. |date=1978 |title=Geological Survey Bulletin 1456: Mercury Deposits in Turkey |url=https://pubs.usgs.gov/bul/1456/report.pdf |publisher=U.S. Government Printing Office |page= |docket= |access-date=7 January 2024 |quote=}}</ref> Found in Egyptian tombs dating from 1500&nbsp;BC.<ref>{{cite web | title=Mercury and the environment – Basic facts | publisher=[[Environment Canada]], Federal Government of Canada | year=2004 | url=http://www.ec.gc.ca/MERCURY/EN/bf.cfm | access-date=2008-03-27 | archive-url=https://web.archive.org/web/20070115042236/http://www.ec.gc.ca/MERCURY/EN/bf.cfm | archive-date=2007-01-15 }}</ref> Recognised as an element, first by medieval alchemists, and later by Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy in 1787.<ref name=Miskowiec/>
+|-
+| 30
+| [[Zinc]]
+| data-sort-value=-1001|Before 1000&nbsp;BC
+| data-sort-value=-1000|1000&nbsp;BC
+| [[History of metallurgy in the Indian subcontinent|Indian metallurgists]]
+| [[Indian subcontinent]]
+| Used as a component of [[brass]] since antiquity (before 1000&nbsp;BC) by Indian metallurgists, but its true nature was not generally understood in ancient times. A 4th century BC vase from [[Taxila]] is made of brass with a zinc content of 34%, too high to be produced by [[cementation process|cementation]], providing strong evidence that metallic zinc was known in India by the 4th century BC.<ref>{{cite journal |last1=Biswas |first1=Arun Kumar |date=1993 |title=The Primacy of India in Ancient Brass and Zinc Metallurgy |url=https://cahc.jainuniversity.ac.in/assets/ijhs/Vol28_4_3_AKBiswas.pdf |journal=Indian Journal of History of Science |volume=28 |issue=4 |pages=309–330 |doi= |access-date=4 January 2024 |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128022345/https://cahc.jainuniversity.ac.in/assets/ijhs/Vol28_4_3_AKBiswas.pdf |url-status=dead }}</ref> Zinc smelting was done in China and India around 1300.<ref name=Miskowiec/> Identified as a distinct metal in the ''[[Rasaratna Samuchaya|Rasaratna Samuccaya]]'' around the 14th century CE<ref name=Craddock>Craddock, P. T. et al. (1983), "Zinc production in medieval India", ''World Archaeology'' '''15''' (2), Industrial Archaeology, p. 13</ref> and by the alchemist [[Paracelsus]] in 1526,<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=zn |title=30 Zinc  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> who gave it its present name and described it as a new metal.<ref name=Miskowiec/> [[P. M. de Respour]] isolated it from zinc oxide in 1668;<ref name=Miskowiec/> the first detailed documentation of zinc isolation was given by [[Andreas Sigismund Marggraf]] in 1746.<ref>{{cite book|last=Weeks|first=Mary Elvira |author-link=Mary Elvira Weeks|year=1933|title=The Discovery of the Elements|publisher=Journal of Chemical Education|location=Easton, PA|chapter=III. Some Eighteenth-Century Metals|isbn=0-7661-3872-0|page=21}}</ref>
+|-
+| 78
+| [[Platinum]]
+| data-sort-value=-600|c. 600&nbsp;BC – AD&nbsp;200
+| data-sort-value=-600|c. 600&nbsp;BC – AD&nbsp;200
+| [[Platinum#History|Pre-Columbian South Americans]]
+| South America
+| Used by [[pre-Columbian]] Americans near modern-day [[Esmeraldas, Ecuador]] to produce artifacts of a white gold-platinum alloy, although precise dating is difficult.<ref>{{cite journal|journal=Platinum Metals Review|author=David A. Scott and Warwick Bray|year=1980|url=https://www.technology.matthey.com/article/24/4/147-157/|title=Ancient Platinum Technology in South America: Its use by the Indians in Pre-Hispanic Times|volume=24 |issue=4 |pages=147–157 |doi=10.1595/003214080X244147157 |access-date=5 Nov 2018|archive-date=6 November 2018|archive-url=https://web.archive.org/web/20181106053426/https://www.technology.matthey.com/article/24/4/147-157/|url-access=subscription}}</ref> A small box from the burial of the Pharaoh [[Shepenupet II]] (died around 650 BC) was found to be decorated with gold-platinum hieroglyphics,<ref>{{cite journal|title=Sur les métaux égyptiens: Présence du platine parmi les caractères d'inscriptions hiéroglyphiques, confié à mon examn|trans-title=On Egyptian metals: Presence of platinum among the characters of hieroglyphic inscriptions, entrusted to my examination|url=https://gallica.bnf.fr/ark:/12148/bpt6k30888/f778.image|journal=Comptes rendus de l'Académie des Sciences|language=fr|last=Berthelot|first=M.|volume=132|year=1901|page=729}}</ref> but the Egyptians may not have recognised that there was platinum in their gold.<ref>{{cite book |title=Jewelrymaking Through History: An Encyclopedia |pages=155–6 |author=Rayner W. Hesse |date=2007 |publisher=Greenwood Publishing Group |isbn=978-0-313-33507-5}}</ref><ref>{{cite journal | last=Ogden | first=Jack M. | title=The So-Called 'Platinum' Inclusions in Egyptian Goldwork | journal=The Journal of Egyptian Archaeology | publisher=SAGE Publications | volume=62 | issue=1 | year=1976 | issn=0307-5133 | doi=10.1177/030751337606200116 | pages=138–144| s2cid=192364303 }}</ref> First European description of a metal found in [[South America]]n gold was in 1557 by [[Julius Caesar Scaliger]]. [[Antonio de Ulloa]] was on an expedition to Peru in 1735, where he observed the metal; he published his findings in 1748. [[Charles Wood (ironmaster)|Charles Wood]] also investigated the metal in 1741. First reference to it as a new metal was made by [[William Brownrigg]] in 1750.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=pt |title=78 Platinum  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 33
+| [[Arsenic]]
+| data-sort-value=300|c. AD&nbsp;300
+| data-sort-value=300|c. AD&nbsp;300
+| Egyptians
+| Middle East
+| The use of metallic arsenic was described by the Egyptian alchemist [[Zosimos of Panopolis|Zosimos]].<ref>{{cite book|last1=Holmyard|first1=Eric John|title=Alchemy|date=1957|publisher=Courier Corporation|isbn=978-0-486-26298-7|url=https://books.google.com/books?id=7Bt-kwKRUzUC|access-date=26 January 2018}}</ref> <!--possibly also in the leyden papyrus--> The purification of arsenic was later described in the works attributed to the Muslim alchemist [[Jabir ibn Hayyan]] ({{circa|850}}–950).<ref name=Sarton>{{cite book|last1=Sarton|first1=George|author-link=George Sarton|year=1927–1948|title=Introduction to the History of Science|volume=I–III|location=Baltimore|publisher=Williams & Wilkins|oclc=476555889}} vol. I, p. 532: "We find in them [sc. the works attributed to Jabir] [...] preparation of various substances ({{nowrap|e. g.}}, basic lead carbonate; arsenic and antimony from their sulphides)." On the dating of the writings attributed to Jabir, see {{harvnb|Kraus|1942–1943|loc=vol. I, pp. xvii–lxv}}.</ref> [[Albertus Magnus]] ({{circa|1200}}–1280) is typically credited with the description of the metal in the West,<ref>{{cite book|last1=Emsley|first1=John|title=Nature's Building Blocks: An A-Z Guide to the Elements|date=2001|publisher=Oxford University Press|isbn=978-0-19-850341-5|url=https://books.google.com/books?id=Yhi5X7OwuGkC|access-date=28 February 2018}}</ref> though some question his work and instead credit [[Vannoccio Biringuccio]], whose ''De la pirotechnia'' (1540) distinguishes [[orpiment]] from crystalline arsenic. The first to unquestionably have prepared metallic arsenic was [[Johann Schröder (physician)|Johann Schröder]] in 1641. Recognised as an element after Lavoisier's definition in 1787.<ref name=Miskowiec/>
+|-
+| 83
+| [[Bismuth]]
+| data-sort-value=1500|{{circa|1500}}<ref>[https://www.rsc.org/periodic-table/element/83/bismuth Bismuth - Royal Society of Chemistry]</ref>
+| data-sort-value=1500|{{circa|1500}}
+| European alchemists and [[Inca]] civilisation
+| Europe and South America
+| Bismuth was known since ancient times, but often confused with tin and lead, which are chemically similar. The [[Incas]] used bismuth (along with the usual copper and tin) in a special [[Bismuth bronze|bronze alloy]] for knives, likely intentionally.<ref>{{cite journal |last1 = Gordon | first1= Robert B. |last2 = Rutledge | first2= John W. |date = 1984 |title = Bismuth Bronze from Machu Picchu, Peru |journal = Science |volume = 223 |issue = 4636 |pages = 585–586 |doi = 10.1126/science.223.4636.585 |pmid = 17749940 |bibcode = 1984Sci...223..585G |s2cid = 206572055 |jstor = 1692247}}</ref> [[Georgius Agricola|Agricola]] (1530 and 1546) states that bismuth is a distinct metal in a family of metals including tin and lead. This was based on observation of the metals and their physical properties.<ref name=Miskowiec/><ref>{{cite book |last=Agricola |first=Georgious |orig-date=1546 |date=1955 |title=De Natura Fossilium |location=New York |publisher=Mineralogical Society of America |page=178 |url=http://farlang.com/books/agricola-bandy-de-natura-fossilium |archive-date=14 May 2021 |access-date=5 November 2022 |archive-url=https://web.archive.org/web/20210514044323/http://farlang.com/books/agricola-bandy-de-natura-fossilium |url-status=dead }} <!-- https://books.google.com/books?id=9pxPAAAAcAAJ&pg=PA143 --></ref> Miners in the age of alchemy also gave bismuth the name ''{{lang|la|tectum argenti}},'' or "silver being made" in the sense of silver still in the process of being formed within the Earth.<ref>{{cite book |last=Nicholson |first=William |date=1819 |chapter=Bismuth |title=American edition of the British encyclopedia: Or, Dictionary of Arts and sciences; comprising an accurate and popular view of the present improved state of human knowledge |page=181 |chapter-url=https://books.google.com/books?id=GL5PAAAAMAAJ&pg=PT181}}</ref><ref name="Weeks">{{cite journal |last=Weeks |first=Mary Elvira |author-link=Mary Elvira Weeks |date=1932 |title=The discovery of the elements. II. Elements known to the alchemists |journal=Journal of Chemical Education |volume=9 |issue=1 |page=11 |doi=10.1021/ed009p11 |bibcode=1932JChEd...9...11W}}</ref><ref>{{cite web |last=Giunta |first=Carmen J. |url=http://web.lemoyne.edu/~giunta/archems.html |title=Glossary of Archaic Chemical Terms |publisher=[[Le Moyne College]]}} See also for other terms for bismuth, including ''stannum glaciale'' (glacial tin or ice-tin).</ref> Beginning with [[Johann Heinrich Pott]] in 1738,<ref>{{cite book |last=Pott |first=Johann Heinrich |date=1738 |chapter=De Wismutho |title=Exercitationes Chymicae |page=134 |publisher=Berolini: Apud Johannem Andream Rüdigerum |chapter-url=https://books.google.com/books?id=eQVAAAAAcAAJ&pg=RA1-PA134}}</ref> [[Carl Wilhelm Scheele]], and [[Torbern Olof Bergman]], the distinctness of lead and bismuth became clear, and [[Claude François Geoffroy]] demonstrated in 1753 that this metal is distinct from lead and tin.<ref name="Weeks" /><ref>{{cite book| first = C. R.| last = Hammond| pages = [https://archive.org/details/crchandbookofche81lide/page/4 4–1<!-- not a range -->]| title = The Elements, in Handbook of Chemistry and Physics| edition = 81st| location = Boca Raton (FL, US)| publisher = CRC press| isbn = 978-0-8493-0485-9| date = 2004| url-access = registration| url = https://archive.org/details/crchandbookofche81lide/page/4}}</ref><ref>{{cite journal |author-link=Claude François Geoffroy |last=Geoffroy |first=C.F. |title = Sur Bismuth |page = 190 |date = 1753 |journal = Histoire de l'Académie Royale des Sciences ... Avec les Mémoires de Mathématique & de Physique ... Tirez des Registres de Cette Académie |url = http://gallica.bnf.fr/ark:/12148/bpt6k3551g/f197.image.r=royal.langEN}}</ref>
+|}
+
+==Modern discoveries==
+For 18th-century discoveries, around the time that [[Antoine Lavoisier]] first questioned the [[phlogiston]] theory, the recognition of a new "[[Earth (historical chemistry)|earth]]" has been regarded as being equivalent to the discovery of a new element (as was the general practice then). For some elements (e.g. Be, B, Na, Mg, Al, Si, K, Ca, Mn, Co, Ni, Zr, Mo),<ref>{{cite book |last=Marshall |first=James L. |date=2002 |edition=2nd |title=Discovery of the Elements |url=https://www.chem.unt.edu/~jimm/REDISCOVERY%206-10-2021/Tables%20and%20Text%20Files/HISTORICAL%20SKETCH%20OF%20DISCOVERIES%20version%2013.pdf |location= |publisher=Pearson Custom Publishing |page= |isbn=0-536-67797-2}}</ref> this presents further difficulties as their [[chemical compound|compounded forms]] were widely known since medieval or even ancient times, even though the elements as "elemental" constituents of those compounds were not. Since the true nature of those compounds was sometimes only gradually discovered, it is sometimes very difficult to name one specific discoverer.<ref name=Miskowiec/><ref name=Miskowiec2/> In such cases the first publication on their chemistry is noted, and a longer explanation given in the notes.<ref name=Miskowiec>{{cite journal |last1=Miśkowiec |first1=Paweł |date=2022 |title=Name game: the naming history of the chemical elements—part 1—from antiquity till the end of 18th century |journal=Foundations of Chemistry |volume= 25|issue= |pages= 29–51|doi=10.1007/s10698-022-09448-5 |doi-access=free }}</ref><ref name=Miskowiec2/>
+{{sort under}}{{sticky header}}
+{| class="wikitable sortable sort-under sticky-header-multi" style
+! rowspan=2|Z
+! rowspan=2|Element
+! colspan=2 | Observed
+! colspan=2 | Isolated {{small|(widely&nbsp;known)}}
+! rowspan=2 class="unsortable" | Notes
+|-
+! Year!! By !!Year !! By
+|-
+| 15
+| [[Phosphorus]]
+| 1669
+| [[Hennig Brand|H. Brand]]
+| 1669
+| H. Brand
+| Prepared and isolated from urine, it was the first element whose discovery date and discoverer are recorded.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=p |title=15 Phosphorus  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Its name first appears in print in the work of {{ill|Georg Kaspar Kirchmaier|de}} in 1676. Recognised as an element by Lavoisier.<ref name=Miskowiec/>
+|-
+| 1
+| [[Hydrogen]]
+| 1671
+| [[Robert Boyle|R. Boyle]]
+| 1671
+| R. Boyle
+| Robert Boyle produced it by reacting iron filings with dilute acid.<ref>{{Cite book |last=Boyle |first=R. |url=https://quod.lib.umich.edu/e/eebo2/A29057.0001.001?rgn=main;view=fulltext |title=Tracts written by the Honourable Robert Boyle containing New experiments, touching the relation betwixt flame and air, and about explosions, an hydrostatical discourse occasion'd by some objections of Dr. Henry More against some explications of new experiments made by the author of these tracts: To which is annex't, an hydrostatical letter, dilucidating an experiment about a way of weighing water in water, new experiments, of the positive or relative levity of bodies under water, of the air's spring on bodies under water, about the differing pressure of heavy solids and fluids. |publisher=Printed for Richard Davis. |year=1672 |pages=64–65}}</ref><ref>{{Cite book |last=Weeks |first=Mary Elvira. |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015039738292&view=1up&seq=103 |title=Discovery of the elements |publisher=Journal of Chemical Education |year=1945 |edition=5th |page=83}}</ref> [[Henry Cavendish]] in 1766 was the first to distinguish {{chem|H|2}} from other gases.<ref>{{Cite journal |last=Cavendish |first=H. |date=1766 |title=XIX. Three papers, containing experiments on factitious air |url=https://royalsocietypublishing.org/doi/10.1098/rstl.1766.0019 |journal=Philosophical Transactions of the Royal Society of London |volume=56 |pages=141–184 |doi=10.1098/rstl.1766.0019 |s2cid=186209704 |issn=0261-0523|url-access=subscription }}</ref> Lavoisier named it in 1783.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=h |title=01 Hydrogen  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>{{cite book|title=The Encyclopedia of the Chemical Elements|chapter-url=https://archive.org/details/encyclopediaofch00hamp|chapter-url-access=registration|last=Andrews|first=A. C.|publisher=Reinhold Book Corporation|location=New York|year=1968|pages=[https://archive.org/details/encyclopediaofch00hamp/page/272 272]|editor=Clifford A. Hampel|chapter=Oxygen|lccn=68-29938}}</ref> It was the first elemental gas known.
+|-
+| 11
+| [[Sodium]]
+| 1702
+| [[Georg Ernst Stahl|G. E. Stahl]]
+| 1807
+| [[Humphry Davy|H. Davy]]
+| rowspan=2|[[Georg Ernst Stahl]] obtained experimental evidence that led him to suggest the fundamental difference of sodium and potassium salts in 1702,<ref name="1702Suspect">{{cite book|url = https://books.google.com/books?id=b-ATAAAAQAAJ&pg=PA167|page = 167|title = Chymische Schriften|last1 = Marggraf|first1 = Andreas Siegmund|date = 1761}}</ref> and [[Henri Louis Duhamel du Monceau]] was able to prove this difference in 1736.<ref name=monceau>{{cite journal|url = http://gallica.bnf.fr/ark:/12148/bpt6k3533j/f73.image.r=Memoires%20de%20l%27Academie%20royale%20des%20Sciences.langEN|journal = Mémoires de l'Académie Royale des Sciences| title = Sur la Base de Sel Marin| last = du Monceau|first = H. L. D.| pages = 65–68| language = fr|date = 1702–1797}}</ref> [[Andreas Sigismund Marggraf]] again recognised the difference between [[soda ash]] and [[potash]] in 1758, but not all chemists accepted his conclusion. In 1797, [[Martin Heinrich Klaproth]] suggested the names ''natron'' and ''kali'' for the two alkalis (whence the symbols). Davy isolated sodium metal a few days after potassium, by using electrolysis on [[sodium hydroxide]]<ref name="autogenerated1">{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=na |title=11 Sodium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> and [[potash]]<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=k |title=19 Potassium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> respectively.
+|-
+| 19
+| [[Potassium]]
+| 1702
+| G. E. Stahl
+| 1807
+| H. Davy
+|-
+| 27
+| [[Cobalt]]
+| 1735
+| [[Georg Brandt|G. Brandt]]
+| 1735
+| G. Brandt
+| Proved that the blue color of glass is due to a new kind of metal and not bismuth as thought previously.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=co |title=27 Cobalt  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 20
+| [[Calcium]]
+| 1739
+| [[Johann Heinrich Pott|J. H. Pott]]
+| 1808
+| H. Davy
+| Lime was known as a substance for centuries, but only in the 18th century was its chemical nature recognised. Pott recognised ''terra calcarea'' (calcareous earth) as an individual "earth" in his treatise of 1739. Guyton de Morveau, Lavoisier, Berthollet, and Fourcroy suggested in 1787 that it was the oxide of an element. Davy isolated the metal electrochemically from [[quicklime]].<ref name=Miskowiec/>
+|-
+| 14
+| [[Silicon]]
+| 1739
+| J. H. Pott
+| 1823
+| [[Jöns Jakob Berzelius|J. Berzelius]]
+| Silicon compounds (rock crystals and glass) were known to the ancients, but its chemical investigation dates only to the 17th century. [[Johann Joachim Becher]] (of the [[phlogiston theory]]) identified silica as the ''terra vitrescibilis'', and [[Johann Heinrich Pott]] recognised it as an individual "earth" in his treatise of 1739.<ref name=Miskowiec/> Silica appears as a "simple earth" in the ''Méthode de nomenclature chimique'', and in 1789 Lavoisier concluded that the element must exist.<ref name=Miskowiec/> Davy thought in 1800 that [[silica]] was a compound, not an element, and in 1808 he suggested the name ''silicium''.<ref name="EoCP">{{cite book|last = Davy|first = Humphry|title = Elements of Chemical Philosophy|location = London|publisher = W. Bulmer and Co. Cleveland-row|date = 1812| isbn=978-0-598-81883-6 |url = https://books.google.com/books?id=d6Y5AAAAcAAJ}}</ref>{{rp|362–364}} In 1811 Louis-Joseph Gay-Lussac and Louis-Jacques Thénard probably prepared impure silicon,<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=si |title=14 Silicon  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> and Berzelius obtained the pure element in 1823.<ref>{{cite web |url=https://enviroliteracy.org/special-features/its-element-ary/silicon/ |title=Silicon |publisher=The Environmental Literacy Council |access-date=2016-12-02 |archive-date=2018-09-08 |archive-url=https://web.archive.org/web/20180908135234/https://enviroliteracy.org/special-features/its-element-ary/silicon/ }}</ref> The name was proposed to be changed to ''silicon'' by [[Thomas Thomson (chemist)|Thomas Thomson]] in 1817, and this was eventually accepted because of its analogies to boron and carbon.
+|-
+| 13
+| [[Aluminium]]
+| 1746
+| J. H. Pott
+| 1825
+| [[Hans Christian Ørsted|H.C.Ørsted]]
+| [[Paracelsus]] recognised ''aluminis'' as separate from vitriol in 1570, and [[Andreas Libavius]] proposed in his 1597 treatise to name the unknown earth of alum ''alumina''. In 1746, [[Johann Heinrich Pott]] published a treatise distinguishing alum from lime and chalk, and Marggraf precipitated the new earth in 1756.<ref name=Miskowiec/> Antoine Lavoisier predicted in 1787 that [[alumina]] is the oxide of an undiscovered element, and in 1808 Davy tried to decompose it. Although he failed, he suggested the present name.<ref name="EoCP"/>{{rp|354–357}} Hans Christian Ørsted was the first to isolate metallic aluminium in 1825.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=al |title=13 Aluminium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>{{cite conference|last1=Örsted|first1=H. C.|date=1825|title=Oversigt over det Kongelige Danske Videnskabernes Selskabs Forhanlingar og dets Medlemmerz Arbeider, fra 31 Mai 1824 til 31 Mai 1825|trans-title=Overview of the Royal Danish Science Society's Proceedings and the Work of its Members, from 31 May 1824 to 31 May 1825|url=https://babel.hathitrust.org/cgi/pt?id=osu.32435054254693&view=1up&seq=17|language=da|pages=15–16}}</ref> However, some scientists questioned his isolation. The first undisputed isolation of aluminium was done by [[Friedrich Wöhler]] in 1827.<ref name=Miskowiec/>
+|-
+| 28
+| [[Nickel]]
+| 1751
+| [[Axel Fredrik Cronstedt|F. Cronstedt]]
+| 1751
+| F. Cronstedt
+| Found by attempting to extract copper from the mineral known as ''fake copper'' (now known as [[niccolite]]).<ref name="autogenerated4">{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ni |title=28 Nickel  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 12
+| [[Magnesium]]
+| 1755
+| [[Joseph Black|J. Black]]
+| 1808
+| [[Humphry Davy|H. Davy]]
+| [[Joseph Black]] observed that ''magnesia alba'' (MgO) was not [[quicklime]] (CaO) in 1755; until then, both substances had been confused. Davy isolated the metal electrochemically from [[Magnesia (mineral)|magnesia]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=mg |title=12 Magnesium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 25
+| [[Manganese]]
+| 1770
+| [[Torbern Olof Bergman|T. O. Bergman]]
+| 1774
+| [[Johan Gottlieb Gahn|J. G. Gahn]]
+| Torbern Olof Bergman distinguished [[pyrolusite]] as the [[calx]] of a new metal, but failed to reduce it. [[Ignatius Gottfred Kaim]] might have isolated it in 1770, but there is uncertainty on that. It was isolated by reduction of [[manganese dioxide]] with carbon. Given its present name in 1779 by Guyton de Morveau; prior to that it was called ''magnesia''.<ref name=Miskowiec/><ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=mn |title=25 Manganese  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 9
+| [[Fluorine]]
+| 1771
+| [[Carl Wilhelm Scheele|W. Scheele]]
+| 1886
+| [[Henri Moissan|H. Moissan]]
+| [[Fluorspar]] was described by [[Georgius Agricola]] in 1529.<ref>{{cite book|last1=Agricola|first1=Georgius|author1-link=Georgius Agricola|last2=Hoover|first2=Herbert Clark|last3=Hoover|first3=Lou Henry|date=1912|title=De Re Metallica|location=London|publisher=The Mining Magazine|url=https://archive.org/stream/georgiusagricola00agririch#page/n5/mode/2up}}</ref> Scheele studied fluorspar and correctly concluded it to be the lime (calcium) salt of an acid.<ref>{{cite journal |last1=Waggoner |first1=William H. |date=1976 |title=The Naming of Fluorine |url= |journal=Journal of Chemical Education |volume=53 |issue=1 |page=27 |doi=10.1021/ed053p27.1 |bibcode=1976JChEd..53Q..27W }}</ref> ''Radical fluorique'' appears on the list of elements in Lavoisier's ''Traité Élémentaire de Chimie'' from 1789, but ''radical muriatique'' also appears instead of chlorine.<ref name="33elements"/> André-Marie Ampère again predicted in 1810 that hydrofluoric acid contained an element analogous to chlorine, and between 1812 and 1886 many researchers tried to obtain it. It was eventually isolated by Moissan.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=f |title=09 Fluorine  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 8
+| [[Oxygen]]
+| 1771
+| [[Carl Wilhelm Scheele|W. Scheele]]
+| 1771
+| W. Scheele
+| Scheele obtained it by heating [[mercuric oxide]] and [[nitrate]]s in 1771, but did not publish his findings until 1777. [[Joseph Priestley]] also prepared this new ''air'' by 1774, but only Lavoisier recognized it as a true element; he named it in 1777.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=o |title=08 Oxygen  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>{{cite book|title=The Encyclopedia of the Chemical Elements|chapter-url=https://archive.org/details/encyclopediaofch00hamp|chapter-url-access=registration|last=Cook|first=Gerhard A.|author2=Lauer, Carol M. |publisher=Reinhold Book Corporation|location=New York|year=1968|pages=[https://archive.org/details/encyclopediaofch00hamp/page/499 499–500]|editor=Clifford A. Hampel|chapter=Oxygen|lccn=68-29938}}</ref> Before him, [[Sendivogius]] had produced oxygen by heating [[saltpetre]], correctly identifying it as the "food of life".<ref>{{cite web |url=http://ppgfsc.posgrad.ufsc.br/files/2012/09/oxygen-grazyna.pdf |archive-url=https://web.archive.org/web/20150424172705/http://ppgfsc.posgrad.ufsc.br/files/2012/09/oxygen-grazyna.pdf |archive-date=2015-04-24 |url-status=dead |title=The discovery of oxygen in the universe |last=Stasińska |first=Grażyna |date=2012 |website=ppgfsc.posgrad.ufsc.br |access-date=20 April 2018}}</ref>
+|-
+| 7
+| [[Nitrogen]]
+| 1772
+| [[Daniel Rutherford|D. Rutherford]]
+| 1772
+| D. Rutherford
+| Rutherford discovered nitrogen while studying at the [[University of Edinburgh]].<ref>{{cite book|last=Roza|first=Greg|title=The Nitrogen Elements: Nitrogen, Phosphorus, Arsenic, Antimony, Bismuth|year=2010|isbn=978-1-4358-5335-5|page=7|publisher=The Rosen Publishing Group }}</ref> He showed that the air in which animals had breathed, even after removal of the exhaled carbon dioxide, was no longer able to burn a candle. Carl Wilhelm Scheele, Henry Cavendish, and Joseph Priestley also studied the element at about the same time, and Lavoisier named it in 1775–6.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=n |title=07 Nitrogen  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 56
+| [[Barium]]
+| 1772
+| W. Scheele
+| 1808
+| H. Davy
+| Scheele distinguished a new earth ([[BaO]]) in [[baryte]] in 1772. He did not name his discovery; Guyton de Morveau suggested ''barote'' in 1782.<ref name=Miskowiec/> It was changed to ''baryte'' in the ''Méthode de nomenclature chimique'' of [[Louis-Bernard Guyton de Morveau]], [[Antoine Lavoisier]], [[Claude Louis Berthollet]], and [[Antoine François, comte de Fourcroy]] (1787). Davy isolated the metal by [[electrolysis]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ba |title=56 Barium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 17
+| [[Chlorine]]
+| 1774
+| [[Carl Wilhelm Scheele|W. Scheele]]
+| 1774
+| W. Scheele
+| Obtained it from [[hydrochloric acid]], but thought it was an oxide. Only in 1810 did Humphry Davy recognize it as an element.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=cl |title=17 Chlorine  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref name=Holden>{{cite journal |url=https://www.osti.gov/servlets/purl/1543419 |title=History of the Origin of the Chemical Elements and Their Discoverers |last=Holden |first=Norman E. |date=2019 |website=osti.gov |publisher= |access-date=3 January 2023 |quote=}}</ref>
+|-
+| 42
+| [[Molybdenum]]
+| 1778
+| [[Carl Wilhelm Scheele|W. Scheele]]
+| 1788
+| [[Peter Jacob Hjelm|J. Hjelm]]
+| Scheele recognised the metal as a constituent of [[Molybdenite|molybdena]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=mo |title=42 Molybdenum  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Before that, Axel Cronstedt had assumed that molybdena contained a new earth in 1758.<ref name=Miskowiec/>
+|-
+| 74
+| [[Tungsten]]
+| 1781
+| [[Carl Wilhelm Scheele|W. Scheele]]
+| 1783
+| [[Juan José Elhuyar|J.]] and [[Fausto Elhuyar|F. Elhuyar]]
+| Scheele showed that [[scheelite]] (then called tungsten) was a salt of calcium with a new acid, which he called [[tungstic acid]]. The Elhuyars obtained tungstic acid from [[wolframite]] and reduced it with charcoal, naming the element "wolfram".<ref name=Miskowiec/><ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=w |title=74 Tungsten  |publisher=Elements.vanderkrogt.net |author=IUPAC |access-date=2008-09-12}}</ref> Since that time both names, tungsten and wolfram, have been used depending on language.<ref name=Miskowiec/> In 1949 IUPAC made wolfram the scientific name, but this was repealed after protest in 1951 in favour of recognising both names pending a further review (which never materialised). Currently only tungsten is recognised for use in English.<ref name=Holden/>
+|-
+| 52
+| [[Tellurium]]
+| 1782
+| [[Franz-Joseph Müller von Reichenstein|F.-J.M. von Reichenstein]]
+| 1798
+| [[Martin Heinrich Klaproth|H. Klaproth]]
+| Muller observed it as an impurity in gold ores from Transylvania.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=te |title=52 Tellurium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Klaproth isolated it in 1798.<ref name=Holden/>
+|-
+| 5
+| [[Boron]]
+| 1787
+| [[Louis-Bernard Guyton de Morveau|L. Guyton de Morveau]], [[Antoine Lavoisier|A. Lavoisier]], [[Claude Louis Berthollet|C. L. Berthollet]], and [[Antoine François, comte de Fourcroy|A. de Fourcroy]]
+| 1809
+| [[Humphry Davy|H. Davy]]
+| [[Borax]] was known from ancient times. In 1787, ''radical boracique'' appeared in the ''Méthode de nomenclature chimique'' of [[Louis-Bernard Guyton de Morveau]], [[Antoine Lavoisier]], [[Claude Louis Berthollet]], and [[Antoine François, comte de Fourcroy]].<ref name=Miskowiec/> It also appears in Lavoisier's ''Traité Élémentaire de Chimie'' from 1789.<ref name="33elements"/> In 1808, Lussac and Thénard announced a new element in [[boric acid|sedative salt]] and named it ''bore''. Davy announced the isolation of a new substance from boracic acid in 1809, naming it ''boracium''.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=b |title=05 Boron  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> As the element turned out not to be a metal, he revised his proposal to ''boron'' in 1812.<ref name=Miskowiec/>
+|-
+|
+|
+|'''1789'''
+|colspan=1|'''[[Antoine Lavoisier|A. Lavoisier]]'''
+|
+|
+|Lavoisier writes the first modern list of chemical elements – containing 33 elements including light and heat but omitting Na, K (he was unsure of whether soda and potash without carbonic acid, i.e. Na<sub>2</sub>O and K<sub>2</sub>O, are simple substances or compounds like NH<sub>3</sub>),<ref>[https://books.google.com/books?id=HslXAAAAYAAJ Œuvres de Lavoisier, Paris, 1864, vol. 1, p. 116–120.]</ref> Te; some elements were listed in the table as unextracted "radicals" (Cl, F, B) or as oxides (Ca, Mg, Ba, Al, Si).<ref name="33elements">{{cite web|url=http://elements.vanderkrogt.net/chemical_symbols.php|title=Lavoisier 1789 – 33 elements|publisher=Elementymology & Elements Multidict|access-date=2015-01-24}}</ref> He also redefines the term "element".
+|-
+| 40
+| [[Zirconium]]
+| 1789
+| [[Martin Heinrich Klaproth|H. Klaproth]]
+| 1824
+| [[Jöns Jakob Berzelius|J. Berzelius]]
+| Martin Heinrich Klaproth identified a new oxide in [[zircon]] in 1789,<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=zr |title=40 Zirconium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>{{Cite book |entry=Zirconium |date=2007–2008 |title=CRC Handbook of Chemistry and Physics |editor-last=Lide |editor-first=David R. |volume=4 |page=42 |location=New York |publisher=CRC Press |isbn=978-0-8493-0488-0}}</ref> and in 1808 Davy suggested the present name.<ref name="EoCP"/>{{rp|360–362}} The metal was first obtained by Berzelius in 1824.<ref>{{cite journal| title = 2. Undersökning af flusspatssyran och dess märkvärdigaste föreningar. Fortsättning.| author = J. J. Berzelius| journal = Kongliga Vetenskapsakademiens Nya Handlingar| volume = 3| issue = 12| year = 1824| pages = 278–327}}</ref>
+|-
+| 92
+| [[Uranium]]
+| 1789
+| [[Martin Heinrich Klaproth|H. Klaproth]]
+| 1841
+| [[Eugène-Melchior Péligot|E.-M. Péligot]]
+| Klaproth mistakenly identified a [[uranium oxide]] obtained from [[pitchblende]] as the element itself and named it after the recently discovered planet [[Uranus]].<ref>{{cite journal| title = Chemische Untersuchung des Uranits, einer neuentdeckten metallischen Substanz| author = M. H. Klaproth| journal = Chemische Annalen| volume = 2| year = 1789| pages = 387–403}}</ref><ref>{{cite journal| title = Recherches Sur L'Uranium| author = E.-M. Péligot| journal = [[Annales de chimie et de physique]]| volume = 5| issue = 5| year = 1842| pages = 5–47| url =http://gallica.bnf.fr/ark:/12148/bpt6k34746s/f4.table}}</ref>
+|-
+| 38
+| [[Strontium]]
+| 1790
+| [[Adair Crawford|A. Crawford]]
+| 1808
+| H. Davy
+| [[Adair Crawford]] in 1790 found that [[strontianite]] (strontium carbonate) and [[witherite]] (barium carbonate) have different chemical properties, and suspected strontianite contained a new earth. Before him, strontianite is seen as a type of witherite. Strontium was eventually isolated electrochemically in 1808 by Davy.<ref>{{Cite book |last=Weeks |first=Mary Elvira. |title=Discovery of the elements |publisher=Journal of Chemical Education |year=1945 |edition=5th |pages=302–305|language=en}}</ref>
+|-
+| 22
+| [[Titanium]]
+| 1791
+| [[William Gregor|W. Gregor]]
+| 1875
+| D. K. Kirillov<ref>{{cite web|url=http://n-t.ru/ri/ps/pb022.htm |title=Популярная библиотека химических элементов. Титан|lang=ru|access-date=2025-02-19}}</ref>
+| Gregor found an oxide of a new metal in [[ilmenite]]; Klaproth independently discovered the element in [[rutile]] in 1795 and named it. In 1825, Jöns Jacob Berzelius claimed isolation of metallic titanium, but his substance did not react with hydrofluoric acid, whereas titanium does. In 1910, [[Matthew A. Hunter]] obtained metallic titanium of 99% purity.<ref>{{cite web|title=Titanium |url=http://periodic.lanl.gov/elements/22.html |year=2004 |access-date=2006-12-29 |publisher=[[Los Alamos National Laboratory]] |archive-url=https://web.archive.org/web/20061230040713/http://periodic.lanl.gov/elements/22.html |archive-date=2006-12-30 }}</ref><ref>{{cite book |title=''The Encyclopedia of the Chemical Elements'' |year=1968 |author=Barksdale, Jelks |publisher=[[Reinhold Book Corporation]] |location=[[Skokie, Illinois]] |pages=732–38 "Titanium"|id=LCCCN 68-29938}}</ref>
+|-
+| 39
+| [[Yttrium]]
+| 1794
+| [[Johan Gadolin|J. Gadolin]]
+| 1843
+| [[Heinrich Rose|H. Rose]]
+| [[Johan Gadolin]] discovered the earth in [[gadolinite]] in 1794. He did not name his discovery, but [[Anders Gustaf Ekeberg]] did so when he confirmed it in 1797.<ref name=Miskowiec/> Wöhler mistakenly thought he had isolated the metal in 1828 from a volatile chloride he supposed to be yttrium chloride,<ref>{{cite book|last = Heiserman|first = David L.|title = Exploring Chemical Elements and their Compounds|location = New York|publisher = TAB Books|isbn = 0-8306-3018-X|chapter = Element 39: Yttrium|pages = 150–152|date = 1992|chapter-url-access = registration|chapter-url = https://archive.org/details/exploringchemica01heis}}</ref><ref>{{cite journal|journal = Annalen der Physik|volume = 89|issue = 8|pages = 577–582|title = Ueber das Beryllium und Yttrium|first = Friedrich|last = Wöhler|author-link = Friedrich Wöhler|doi = 10.1002/andp.18280890805|date = 1828|bibcode = 1828AnP....89..577W |url = https://zenodo.org/record/1423522}}</ref> but Rose proved otherwise in 1843 and correctly isolated the element himself that year.<ref>{{cite journal|journal = Annalen der Physik und Chemie|volume = LIX (135)|pages = 101–111|title = Einige Bemerkungen über die Yttererde|first = Heinrich|last = Rose|author-link = Heinrich Rose|doi = 10.1002/andp.18431350507|date = 1843| issue=5 | bibcode=1843AnP...135..101R |url = https://books.google.com/books?id=BpOZAAAAIAAJ}}</ref>
+|-
+| 24
+| [[Chromium]]
+| 1797
+| [[Louis Nicolas Vauquelin|N. Vauquelin]]
+| 1798
+| N. Vauquelin
+| Vauquelin analysed the composition of [[crocoite]] ore in 1797, and later isolated the metal by heating the oxide in a charcoal oven.<ref name=Miskowiec/><ref>{{Cite journal|url = https://books.google.com/books?id=6dgPAAAAQAAJ|journal =Journal of Natural Philosophy, Chemistry, and the Arts|year = 1798|page = 146|volume =3|title = Memoir on a New Metallic Acid which exists in the Red Lead of Sibiria|first = Louis Nicolas|last = Vauquelin}}</ref><ref>{{Cite journal|url = https://books.google.com/books?id=5gc2AQAAMAAJ|journal =Transactions of the American Institute of Mining, Metallurgical and Petroleum Engineers|year = 1896|page = 482|volume =25|title = Chrome in the Southern Appalachian Region|first = William|last = Glenn}}</ref>
+|-
+| 4
+| [[Beryllium]]
+| 1798
+| [[Louis Nicolas Vauquelin|N. Vauquelin]]
+| 1828
+| [[Friedrich Wöhler|F. Wöhler]] and [[Antoine Bussy|A. Bussy]]
+| Vauquelin discovered the oxide in [[beryl]] and emerald in 1798, and was uncertain about the name to give to it: in 1798 he called it ''la terre du beril'', but the journal editors named it ''glucine'' after the sweet taste of beryllium compounds (which are highly toxic). [[Johann Heinrich Friedrich Link]] proposed in 1799 to change the name from ''Glucine'' to ''Beryllerde'' or ''Berylline'', a suggestion taken up by Klaproth in 1800 in the form ''beryllina''. Klaproth had independently worked on beryl and emerald and likewise concluded that a new element was present. Davy in 1808 suggested the name ''glucium''.<ref name="EoCP"/>{{rp|358–359}} The name ''beryllium'' for the element was first used by Wöhler upon its isolation. Both names ''beryllium'' and ''glucinium'' were used (the latter mostly in France) until IUPAC decided on the name beryllium in 1949.<ref name=Miskowiec/>
+|-
+| 23
+| [[Vanadium]]
+| 1801
+| [[Andrés Manuel del Río|A. M. del Río]]
+| 1867
+| [[Henry Enfield Roscoe|H. E. Roscoe]]
+| [[Andrés Manuel del Río]] found the metal (calling it ''erythronium'') in [[vanadinite]] in 1801, but the claim was rejected after [[Hippolyte Victor Collet-Descotils]] dismissed it as chromium based on erroneous and superficial testing.<ref>{{cite web |url=https://chemistry.unt.edu/sites/default/files/users/owj0001/vanadium%20II.pdf |archive-url=https://web.archive.org/web/20221229122727/https://chemistry.unt.edu/sites/default/files/users/owj0001/vanadium%20II.pdf |archive-date=29 December 2022 |title=Rediscovery of the Elements: The "Undiscovery" of Vanadium |last1=Marshall |first1=James L. |last2=Marshall |first2=Virginia R. |date=2004 |website=unt.edu |publisher=The Hexagon |quote= }}</ref> [[Nils Gabriel Sefström]] rediscovered the element in 1830 and named it vanadium. [[Friedrich Wöhler]] then showed that vanadium was identical to erythronium and thus that del Río had been right in the first place.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=v |title=23 Vanadium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref name=vanadium3/> Del Río then argued passionately that his old claim be recognised, but the element kept the name vanadium.<ref name=vanadium3>{{cite web |url=https://digital.library.unt.edu/ark:/67531/metadc111200/m2/1/high_res_d/metadc111200.pdf |title=Rediscovery of the Elements: The Second Discovery of Vanadium |last1=Marshall |first1=James L. |last2=Marshall |first2=Virginia R. |date=2004 |website=unt.edu |publisher=The Hexagon |quote=}}</ref> Roscoe eventually produced the metal in 1867 by reduction of [[vanadium(II) chloride]], VCl<sub>2</sub>, with [[hydrogen]].<ref name="Roscoe">{{cite journal |date=31 December 1870 |title=XIX. Researches on vanadium |url=https://zenodo.org/record/1432055 |url-status=live |journal=Proceedings of the Royal Society of London |volume=18 |issue=114–122 |pages=37–42 |doi=10.1098/rspl.1869.0012 |s2cid=104146966 |archive-url=https://web.archive.org/web/20210909211727/https://zenodo.org/record/1432055 |archive-date=9 September 2021 |access-date=27 August 2019}}</ref>
+|-
+| 41
+| [[Niobium]]
+| 1801
+| [[Charles Hatchett|C. Hatchett]]
+| 1864
+| [[Christian Wilhelm Blomstrand|W. Blomstrand]]
+| Hatchett found the element in [[columbite]] ore and named it ''columbium''. In 1809, [[William Hyde Wollaston|W. H. Wollaston]] claimed that columbium and tantalum are identical, which proved to be false.<ref name=Holden/> [[Heinrich Rose]] proved in 1844 that the element is distinct from tantalum, and renamed it ''niobium''. American scientists generally used the name ''columbium'', while European ones used ''niobium''. Niobium was officially accepted by IUPAC in 1949.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=nb |title=41 Niobium |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 73
+| [[Tantalum]]
+| 1802
+| [[Anders Gustaf Ekeberg|G. Ekeberg]]
+| 1864
+| [[Jean Charles Galissard de Marignac|J.C.G. de Marignac]]
+| Ekeberg found another element in minerals similar to columbite, and named it after [[Tantalus]] from Greek mythology because of its inability to be dissolved by acids (just as Tantalus was tantalised by water that receded when he tried to drink it).<ref name=Holden/> In 1809, [[William Hyde Wollaston|W. H. Wollaston]] claimed that columbium and tantalum are identical, which proved to be false.<ref name=Holden/> In 1844, Heinrich Rose proved that the elements were distinct and renamed columbium to niobium (Niobe is the daughter of Tantalus).<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ta |title=73 Tantalum  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> De Marignac's sample contained impurities; relatively pure tantalum was produced by [[Werner von Bolton]] in 1903.
+|-
+| 46
+| [[Palladium]]
+| 1802
+| [[William Hyde Wollaston|W. H. Wollaston]]
+| 1802
+| W. H. Wollaston
+| Wollaston discovered it in samples of platinum from South America, but did not publish his results immediately. He had intended to name it after the newly discovered [[asteroid]], [[Ceres (dwarf planet)|Ceres]], but by the time he published his results in 1804, cerium had taken that name. Wollaston named it after the more recently discovered asteroid [[2 Pallas|Pallas]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=pd |title=46 Palladium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 58
+| [[Cerium]]
+| 1803
+| [[Martin Heinrich Klaproth|H. Klaproth]], [[Wilhelm Hisinger|W. Hisinger]], and J. Berzelius
+| 1875
+| [[William Francis Hillebrand|W. F. Hillebrand]] and T. H. Norton
+| Hisinger and Berzelius discovered a new earth in [[cerite]], considered it to be an oxide of a new element and named the element after the newly discovered asteroid (then considered a planet), Ceres. Klaproth discovered it simultaneously and independently in some tantalum samples.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ce |title=58 Cerium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Mosander (1825) and Wöhler (1867) claimed to have isolated metallic cerium, but their samples were rather impure.{{Citation needed|date=March 2025}}
+|-
+| 76
+| [[Osmium]]
+| 1803
+| [[Smithson Tennant|S. Tennant]]
+| 1803
+| S. Tennant
+|rowspan=2| Tennant had been working on samples of South American platinum in parallel with Wollaston and discovered two new elements, which he named osmium and iridium,<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=os |title=76 Osmium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> and published the iridium results in 1804.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ir |title=77 Iridium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Collet-Descotils also found iridium the same year, but not osmium.<ref name=Holden/>
+|-
+| 77
+| [[Iridium]]
+| 1803
+| [[Smithson Tennant|S. Tennant]] and [[Hippolyte-Victor Collet-Descotils|H.-V. Collet-Descotils]]
+| 1803
+| S. Tennant
+|-
+| 45
+| [[Rhodium]]
+| 1804
+| [[William Hyde Wollaston|H. Wollaston]]
+| 1804
+| H. Wollaston
+| Wollaston discovered and isolated it from crude platinum samples from South America.<ref name="autogenerated2">{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=rh |title=45 Rhodium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 53
+| [[Iodine]]
+| 1811
+| [[Bernard Courtois|B. Courtois]]
+| 1811
+| B. Courtois
+| Courtois discovered it in the ashes of [[seaweed]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=i |title=53 Iodine  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> The name ''iode'' was given in French by Gay-Lussac and published in 1813.<ref name=Miskowiec2>{{cite journal |last1=Miśkowiec |first1=Paweł |date=2022 |title=Name game: the naming history of the chemical elements—part 2—turbulent nineteenth century |journal=Foundations of Chemistry |volume= 25|issue= 2|pages= 215–234 |doi=10.1007/s10698-022-09451-w |doi-access=free }}</ref> Davy gave it the English name ''iodine'' in 1814.<ref name=Miskowiec2/>
+|-
+| 3
+| [[Lithium]]
+| 1817
+| [[Johan August Arfwedson|A. Arfwedson]]
+| 1821
+| [[William Thomas Brande|W. T. Brande]]
+| Arfwedson, a student of Berzelius, discovered the alkali in [[petalite]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=li |title=03 Lithium |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Brande isolated it electrolytically from [[lithium oxide]].<ref name=Miskowiec2/>
+|-
+| 48
+| [[Cadmium]]
+| 1817
+| [[Karl Samuel Leberecht Hermann|S. L Hermann]], [[Friedrich Stromeyer|F. Stromeyer]], and J.C.H. Roloff
+| 1817
+| S. L Hermann,  F. Stromeyer, and J.C.H. Roloff
+| All three found an unknown metal in a sample of [[zinc oxide]] from Silesia, but the name that Stromeyer gave became the accepted one.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=cd |title=48 Cadmium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 34
+| [[Selenium]]
+| 1817
+| [[Jöns Jakob Berzelius|J. Berzelius]] and [[Johann Gottlieb Gahn|G. Gahn]]
+| 1817
+| J. Berzelius and G. Gahn
+| While working with lead they discovered a substance that they thought was tellurium, but realized after more investigation that it was different.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=se |title=34 Selenium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 35
+| [[Bromine]]
+| 1825
+| [[Antoine Jérôme Balard|J. Balard]] and [[Carl Jacob Löwig|C. Löwig]]
+| 1825
+| J. Balard and C. Löwig
+| They both discovered the element in the autumn of 1825. Balard published his results the next year,<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=br |title=35 Bromine  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> but Löwig did not publish until 1827.<ref>Carl Löwig (1827) [https://books.google.com/books?id=bO43AAAAMAAJ&pg=PA31 "Über Brombereitung und eine auffallende Zersetzung des Aethers durch Chlor"] (On the preparation of bromine and a striking decomposition of ether by chlorine), ''Magazine für Pharmacie'', vol. 21, pages 31–36.</ref>
+|-
+| 90
+| [[Thorium]]
+| 1829
+| [[Jöns Jakob Berzelius|J. Berzelius]]
+| 1914
+| D. Lely, Jr. and L. Hamburger
+| Berzelius obtained a new earth (the oxide of a new element) in [[thorite]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=th |title=90 Thorium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 57
+| [[Lanthanum]]
+| 1838
+| [[Carl Gustaf Mosander|G. Mosander]]
+| 1904
+| W. Muthmann, L. Weiss
+| Mosander found a new earth in samples of ceria in 1838.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=la |title=57 Lanthanum  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 60
+| [[Neodymium]]
+| 1841
+| [[Carl Gustaf Mosander|G. Mosander]]
+| 1901
+| W. Muthmann, H. Hofer, L. Weiss
+| Discovered by Mosander and called didymium. Carl Auer von Welsbach later split it into two elements, praseodymium and neodymium. Neodymium had formed the greater part of the old didymium and received the prefix "neo-".<ref name=Holden/><ref name="autogenerated5">{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=nd |title=60 Neodymium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 68
+| [[Erbium]]
+| 1843
+| [[Carl Gustaf Mosander|G. Mosander]]
+| 1934
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+|rowspan=2| Mosander managed to split the old yttria into yttria proper, [[erbia]], and [[terbia]].<ref>{{cite journal | last=Weeks | first=Mary Elvira | title=The discovery of the elements. XVI. The rare earth elements | journal=Journal of Chemical Education | volume=9 | issue=10 | date=1932 | issn=0021-9584 | doi=10.1021/ed009p1751 | page=1758| bibcode=1932JChEd...9.1751W |language=en}}</ref> The names underwent some confusion: Mosander's erbia was yellow and his terbia was red. But in 1860, [[Nils Johan Berlin]] could only find the rose-coloured earth, confusingly renamed as erbia, and questioned the existence of the yellow earth. [[Marc Delafontaine]] adopted Berlin's nomenclature where erbia was the rose-coloured earth, but proved in 1878 that the yellow earth also existed. At the prompting of [[Jean Charles Galissard de Marignac]], he named the yellow earth terbia; thus Mosander's names were swapped from his original choices.<ref name=Miskowiec2/>
+|-
+| 65
+| [[Terbium]]
+| 1843
+| [[Carl Gustaf Mosander|G. Mosander]]
+| 1937
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+|-
+| 44
+| [[Ruthenium]]
+| 1844
+| [[Karl Ernst Claus|K. Claus]]
+| 1844
+| K. Claus
+| [[Gottfried Wilhelm Osann]] thought that he found three new metals in Russian platinum samples in 1826, which he named polinium, pluranium, and ruthenium in 1828. But his results were questioned and he did not have enough quantities to isolate them, so he withdrew his claims in 1829.<ref name="Osann2">{{cite journal | author = Gottfried Osann | title = Berichtigung, meine Untersuchung des uralschen Platins betreffend | journal = [[Annalen der Physik|Poggendorffs Annalen der Physik und Chemie]] | volume = 15 | year = 1829 | page = 158 | url = http://gallica.bnf.fr/ark:/12148/bpt6k15100n.image.f168.langDE | language = German}}</ref> However, in 1844 [[Karl Ernst Claus|Karl Karlovich Klaus]] confirmed that there was one new metal, and reused Osann's name "ruthenium".<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ru |title=44 Ruthenium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 55
+| [[Caesium]]
+| 1860
+| [[Gustav Kirchhoff|G. R. Kirchhoff]] and [[Robert Bunsen|R. Bunsen]]
+| 1882
+| [[Carl Setterberg|C. Setterberg]]
+| Kirchhoff and Bunsen were the first to suggest finding new elements by [[Spectroscopy|spectrum analysis]]. They discovered caesium by its two blue [[emission line]]s in a sample of [[Dürkheim]] [[mineral water]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=cs |title=55 Caesium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> The pure metal was eventually isolated in 1882 by Setterberg.<ref>[http://www.chem.shef.ac.uk/chm131-2001/chb01jms/caesium.html Caesium<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20120309030116/http://www.chem.shef.ac.uk/chm131-2001/chb01jms/caesium.html |date=2012-03-09 }}</ref>
+|-
+| 37
+| [[Rubidium]]
+| 1861
+| [[Gustav Kirchhoff|G. R. Kirchhoff]] and [[Robert Bunsen|R. Bunsen]]
+| 1863
+| R. Bunsen
+| Kirchhoff and Bunsen discovered it just a few months after caesium, by observing new spectral lines in the mineral [[lepidolite]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=rb |title=37 Rubidium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> The metal was isolated by Bunsen around 1863.<ref name=Miskowiec2/>
+|-
+| 81
+| [[Thallium]]
+| 1861
+| [[William Crookes|W. Crookes]]
+| 1862
+| [[Claude-Auguste Lamy|C.-A. Lamy]]
+| Shortly after the discovery of rubidium, Crookes found a new green line in a selenium sample; later that year, Lamy found the element to be metallic.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=tl |title=81 Thallium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 49
+| [[Indium]]
+| 1863
+| [[Ferdinand Reich|F. Reich]] and [[Hieronymous Theodor Richter|T. Richter]]
+| 1864
+| T. Richter
+| Reich and Richter first identified it in [[sphalerite]] by its bright indigo-blue spectroscopic emission line.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=in |title=49 Indium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Richter isolated the metal the next year.<ref name=Miskowiec2/>
+|-
+| 2
+| [[Helium]]
+| 1868
+| [[Joseph Norman Lockyer|N. Lockyer]]
+| 1895
+| [[Sir William Ramsay|W. Ramsay]], [[Per Theodor Cleve|T. Cleve]], and [[Nils Langlet|N. Langlet]]
+| [[Pierre Janssen|P. Janssen]] and Lockyer observed independently a yellow line in the solar spectrum that did not match any other element. However, only Lockyer made the correct conclusion that it was due to a new element. This was the first observation of a [[noble gas]], located in the Sun. Years later after the isolation of argon on Earth, Ramsay, Cleve, and Langlet observed independently helium trapped in [[cleveite]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=he |title=02 Helium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+|
+|
+| '''1869'''
+| '''[[Dmitri Mendeleev|D. I. Mendeleev]]'''
+|
+|
+| Mendeleev arranges the 63 elements known at that time (omitting terbium, as chemists were unsure of its existence, and helium, as it was not found on Earth) into the first modern periodic table and correctly predicts several others.
+|-
+| 31
+| [[Gallium]]
+| 1875
+| [[Paul Emile Lecoq de Boisbaudran|P. E. L. de Boisbaudran]]
+| 1878
+| P. E. L. de Boisbaudran and [[Emil Jungfleisch|E. Jungfleisch]]
+| Boisbaudran observed on a pyrenea [[Sphalerite|blende]] sample some emission lines corresponding to the eka-aluminium that was [[Mendeleev's predicted elements|predicted]] by Mendeleev in 1871. He and Jungfleisch isolated the metal three years later by electrolysis.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ga |title=31 Gallium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>{{cite web 
+ |url=http://www.scientificamerican.com/article/the-new-metal-gallium-1878-06-15/ 
+ |title= The New Metal Gallium |date= 15 June 1878 |access-date= 2016-06-16 |website= [[Scientific American]]}}</ref><ref name=Miskowiec2/>
+|-
+| 70
+| [[Ytterbium]]
+| 1878
+| [[Jean Charles Galissard de Marignac|J.C.G. de Marignac]]
+| 1936
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+| On 22 October 1878, Marignac reported splitting erbia (Mosander's terbia) into two new earths, erbia proper and [[ytterbia]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=yb |title=70 Ytterbium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 67
+| [[Holmium]]
+| 1878
+| [[Jacques-Louis Soret|J.-L. Soret]] and [[Marc Delafontaine|M. Delafontaine]]
+| 1939
+| H. Bommer
+| Soret found it in [[samarskite]] and later, Per Teodor Cleve split Marignac's erbia into erbia proper and two new elements, thulium and holmium. Delafontaine's ''philippium'' turned out to be identical to what Soret found.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ho |title=67 Holmium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>{{cite book | last1 = Fontani | first1 = Marco | last2 = Costa | first2 = Mariagrazia | last3 = Orna | first3 = Mary Virginia | year = 2014 | title = The Lost Elements: The Periodic Table's Shadow Side | publisher = Oxford University Press | page = 123 | isbn = 978-0-19-938334-4 | quote = "...today's inclination to re-evaluate the work of Delafontaine and Soret has led justifiably to their being included as co-discoverers of holmium."}}</ref>
+|-
+| 21
+| [[Scandium]]
+| 1879
+| [[Lars Fredrik Nilson|F. Nilson]]
+| 1937
+| W. Fischer, K. Brünger, H. Grieneisen<ref>{{cite journal|title= Über das metallische Scandium |journal= [[Zeitschrift für anorganische und allgemeine Chemie]]|volume= 231 |issue= 1–2 |date= 1937 |pages= 54–62 |first= Werner|last= Fischer |author2= Brünger, Karl |author3= Grieneisen, Hans|doi= 10.1002/zaac.19372310107|bibcode= 1937ZAACh.231...54F|language=de}}</ref>
+| Nilson split Marignac's ytterbia into pure ytterbia and a new element that matched Mendeleev's 1871 predicted eka-boron.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=sc |title=21 Scandium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 69
+| [[Thulium]]
+| 1879
+| T. Cleve
+| 1936
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+| Cleve split Marignac's erbia into erbia proper and two new elements, thulium and holmium.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=tm |title=69 Thulium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 62
+| [[Samarium]]
+| 1879
+| P.E.L. de Boisbaudran
+| 1903
+| W. Muthmann
+| Boisbaudran noted a new earth in samarskite and named it samaria after the mineral.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=sm |title=62 Samarium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 64
+| [[Gadolinium]]
+| 1880
+| J. C. G. de Marignac
+| 1935
+| [[Félix Trombe]]
+| Marignac initially observed the new earth in terbia, and later Boisbaudran obtained a pure sample from samarskite.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=gd |title=64 Gadolinium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 59
+| [[Praseodymium]]
+| 1885
+| [[Carl Auer von Welsbach|C. A. von Welsbach]]
+| 1904
+| W. Muthmann, L. Weiss
+| Carl Auer von Welsbach discovered it in Mosander's didymia.<ref name="autogenerated3">{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=pr |title=59 Praseodymium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 32
+| [[Germanium]]
+| 1886
+| [[Clemens Winkler|C. A. Winkler]]
+| 1886
+| C. A. Winkler
+| In February 1886 Winkler found in [[argyrodite]] the eka-silicon that Mendeleev had predicted in 1871.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ge |title=32 Germanium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 66
+| [[Dysprosium]]
+| 1886
+| P.E.L. de Boisbaudran
+| 1937<!--G. Urbain in 1906 wrote an article titled "Sur l'isolement... du dysprosium", but he obtained only the oxide in larger quantities than in Lecoq de Boisbaudran's sample, not the metal -->
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+| De Boisbaudran found a new earth in erbia.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=Dy |title=66 Dysprosium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 18
+| [[Argon]]
+| 1894
+| [[John Strutt, 3rd Baron Rayleigh|Lord Rayleigh]] and [[William Ramsay|W. Ramsay]]
+| 1894
+| Lord Rayleigh and W. Ramsay
+| They discovered the gas by comparing the molecular weights of nitrogen prepared by [[Liquefaction of gases|liquefaction]] from air and nitrogen prepared by chemical means. It is the first noble gas to be isolated.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ar |title=18 Argon  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 63
+| [[Europium]]
+| 1896
+| [[Eugène-Anatole Demarçay|E.-A. Demarçay]]
+| 1937
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+| Demarçay found spectral lines of a new element in Lecoq's samarium, provisionally designated the element as Σ, and gave it its present name in 1901.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=eu |title=63 Europium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Metallic europium was isolated in 1937.<ref>{{cite web|url=http://n-t.ru/ri/ps/pb063.htm |title=Популярная библиотека химических элементов. Европий|lang=ru|access-date=2025-02-18}}</ref>
+|-
+| 36
+| [[Krypton]]
+| 1898
+| W. Ramsay and [[Morris W. Travers|W. Travers]]
+| 1898
+| W. Ramsay and W. Travers
+| On May 30, 1898, Ramsay separated a noble gas from liquid argon by difference in boiling point.<ref name="autogenerated6">{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ne |title=10 Neon  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 10
+| [[Neon]]
+| 1898
+| W. Ramsay and W. Travers
+| 1898
+| W. Ramsay and W. Travers
+| In June 1898 Ramsay separated a new noble gas from liquid argon by difference in boiling point.<ref name="autogenerated6" />
+|-
+| 54
+| [[Xenon]]
+| 1898
+| W. Ramsay and W. Travers
+| 1898
+| W. Ramsay and W. Travers
+| After neon, Ramsay separated a third noble gas from liquid argon by difference in boiling point.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=xe |title=54 Xenon  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref name="Nobel">{{cite web
+| url         = https://www.nobelprize.org/nobel_prizes/chemistry/laureates/1904/ramsay-lecture.html
+| title       = Nobel Lecture – The Rare Gases of the Atmosphere
+| last        = Ramsay
+| first       = Sir William
+| date        = December 12, 1904
+| website     = Nobel prize
+| publisher   = Nobel Media AB
+| access-date = February 22, 2025
+}}</ref>
+|-
+| 84
+| [[Polonium]]
+| 1898
+| [[Pierre Curie|P.]] and [[Marie Curie|M. Curie]]
+| 1946
+| W. H. Beamer and C. R. Maxwell
+| In an experiment done on 13 July 1898, the Curies noted an increased radioactivity in the uranium obtained from [[pitchblende]], which they ascribed to an unknown element. Independently rediscovered and isolated in 1902 by Marckwald, who named it radiotellurium.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=po |title=84 Polonium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Pure polonium was obtained in 1946.<ref>{{cite journal | last1=Skwarzec | first1=Bogdan | last2=Boryło | first2=Alicja | last3=Wieczorek | first3=Jarosław | last4=Lanczewska | first4=Klaudia | title=Polonium on the 125th anniversary of its discovery: its chemistry, radiotoxicity and application | journal=Journal of Environmental Radioactivity | volume=268-269 | date=2023 | doi=10.1016/j.jenvrad.2023.107259 | doi-access=free | article-number=107259| pmid=37523833 | bibcode=2023JEnvR.26807259S }}</ref>
+|-
+| 88
+| [[Radium]]
+| 1898
+| [[Pierre Curie|P.]] and [[Marie Curie|M. Curie]]
+| 1910
+| Marie Curie and [[André-Louis Debierne]]
+| The Curies reported on 26 December 1898, a new element different from polonium, which Marie later isolated from [[uraninite]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ra |title=88 Radium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> In September 1910, Marie Curie and [[André-Louis Debierne]] announced that they had isolated radium as a pure [[metal]].<ref name=ColbyChurchill1911>{{cite book |author1=Frank Moore Colby|author2=Allen Leon Churchill|title=New International Yearbook: A Compendium of the World's Progress|url=https://archive.org/details/bub_gb_KWEMAAAAYAAJ |year=1911 |publisher=Dodd, Mead and Co. |page=[https://archive.org/details/bub_gb_KWEMAAAAYAAJ/page/n176 152&nbsp;ff]}}</ref><ref>
+{{cite journal
+ |author1=Curie, Marie
+ |author2=Debierne, André
+ |name-list-style=amp
+ |year=1910
+ |title=Sur le radium métallique
+ |language=fr
+ |trans-title=On metallic radium
+ |journal=Comptes Rendus
+ |volume=151
+ |pages=523–525
+ |url=http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-3104&I=523&M=tdm
+ |access-date=1 August 2009
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20110720205637/http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-3104&I=523&M=tdm
+ |archive-date=20 July 2011
+}}</ref>
+|-
+| 86
+| [[Radon]]
+| 1899
+| [[Ernest Rutherford|E. Rutherford]] and [[Robert B. Owens|R. B. Owens]]
+| 1910
+| W. Ramsay and [[Robert Whytlaw-Gray|R. Whytlaw-Gray]]
+| Rutherford and Owens discovered a radioactive gas resulting from the radioactive decay of thorium, isolated later by Ramsay and Gray. In 1900, [[Friedrich Ernst Dorn]] discovered a longer-lived isotope of the same gas from the radioactive decay of radium. Since "radon" was first used to specifically designate Dorn's isotope before it became the name for the element, he is often mistakenly given credit for the latter instead of the former.<ref>{{cite journal|title=Discovery of Radon|journal=[[Nature (journal)|Nature]]|volume=179|issue=4566|page=912|date=May 1957|author=Partington, J. R.|s2cid=4251991|doi=10.1038/179912a0|bibcode = 1957Natur.179..912P |doi-access=free}}</ref><ref>{{cite journal  | title = La densité de l'emanation du radium |author1=Ramsay, W. |author2=Gray, R. W. | journal =  Comptes rendus hebdomadaires des séances de l'Académie des sciences | volume = 151 | pages = 126–128 | year = 1910 | url = http://gallica.bnf.fr/ark:/12148/bpt6k31042/f126.table }}</ref>
+|-
+| 89<!--Debierne's substance, which he reported to be similar to Ti and Th, cannot have been Ac; see Kirby and Ross and the Ac article-->
+| [[Actinium]]
+| 1902
+| [[Friedrich Oskar Giesel|F. O. Giesel]]
+| 1955
+| Joseph G. Stites, Murrell L. Salutsky, Bob D. Stone
+| Giesel obtained from pitchblende a substance that had properties similar to those of lanthanum and named it ''emanium''.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ac |title=89 Actinium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> [[André-Louis Debierne]] had previously (in 1899 and 1900) reported the discovery of a new element ''actinium'' that was supposedly similar to titanium and thorium, which cannot have included much actual element 89. But by 1904, when Giesel and Debierne met, both had samples containing element 89, and so Debierne has generally been given credit for the discovery.<ref>{{cite journal |title = The Discovery of Actinium |first = Harold W. |last = Kirby |journal = Isis |volume = 62 |issue = 3 |pages = 290–308
+|date = 1971 |jstor=229943 |doi =10.1086/350760|s2cid = 144651011 }}</ref>
+|-
+| 71
+| [[Lutetium]]
+| 1906
+| [[Carl Auer von Welsbach|C. A. von Welsbach]] and [[Georges Urbain|G. Urbain]]
+| 1937
+| [[Wilhelm Klemm|W. Klemm]] and H. Bommer
+| Von Welsbach proved that the old [[ytterbium]] also contained a new element, which he named ''cassiopeium'' (he renamed the larger part of the old ytterbium to ''aldebaranium''). Urbain also proved this at about the same time (von Welsbach's paper was published first, but Urbain sent his to the editor first), naming the new element ''lutecium'' and the old one ''neoytterbium'' (which later reverted to ytterbium). However, Urbain's samples were very impure and only contained trace quantities of the new element. Despite this, Urbain's chosen name was adopted by the International Committee of Atomic Weights, whose membership included Urbain. The German Atomic Weights Commission adopted ''cassiopeium'' for the next forty years. Finally in 1949 IUPAC decided in favour of the name ''lutetium'' as it was more often used.<ref name=Holden/><ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=lu |title=71. Lutetium  |publisher=Elementymology & Elements Multidict |first1=Peter |last1=van der Krogt |access-date=2008-09-12}}</ref>
+|-
+| 75
+| [[Rhenium]]
+| 1908
+| [[Masataka Ogawa|M. Ogawa]]
+| 1908
+| M. Ogawa
+| [[Masataka Ogawa]] found it in [[thorianite]] in 1908, but assigned it as element 43 and named it ''nipponium''. (Elements 43 and 75 are in the same group of the periodic table.)<ref>{{cite web |url=http://www.maik.ru/abstract/radchem/0/radchem0535_abstract.pdf |title=Nipponium: The Element ''Z'' = 75 (Re) Instead of ''Z'' = 43 (Tc){{Superscript|1, 2}} |first1=H. K. |last1=Yoshihara |date=February 3, 2000 |access-date=2008-07-11 |archive-url=https://web.archive.org/web/20081003153044/http://www.maik.ru/abstract/radchem/0/radchem0535_abstract.pdf |archive-date=2008-10-03 }}</ref> Because of the erroneous assignment, and because some of his key results were published only in Japanese, his claim was not widely recognised. However, the optical emission spectrum described by Ogawa and the X-ray photographic plate for one of his samples match element 75, and his claim has thus been rehabilitated in much of the modern literature.<ref name=nipponium2022>{{cite journal |last1=Hisamatsu |first1=Yoji |last2=Egashira |first2=Kazuhiro |first3=Yoshiteru |last3=Maeno |date=2022 |title=Ogawa's nipponium and its re-assignment to rhenium |journal=Foundations of Chemistry |volume=24 |issue= |pages=15–57 |doi=10.1007/s10698-021-09410-x |doi-access=free }}</ref> In 1925 [[Walter Noddack]], [[Ida Noddack|Ida Eva Tacke]] and [[Otto Berg (scientist)|Otto Berg]] announced its separation from [[gadolinite]], identified it correctly as element 75, and gave it the present name.<ref>{{cite journal|author1=Noddack, W. |author2=Tacke, I. |author3=Berg, O |s2cid=32974087 |title=Die Ekamangane|journal= Naturwissenschaften|year=1925|volume=13|page=567|doi= 10.1007/BF01558746|bibcode=1925NW.....13..567.|issue=26}}</ref><ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=Re |title=75 Rhenium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 91
+| [[Protactinium]]
+| 1913
+| [[Kasimir Fajans|K. Fajans]] and [[Oswald Helmuth Göhring|O. H. Göhring]]
+| 1934
+| [[Aristid von Grosse|A. von Grosse]]
+| The two obtained the first isotope,  <sup>234m</sup>Pa, of this element, which had been predicted by Mendeleev in 1871, as a member of the natural decay of <sup>238</sup>U; they named it ''brevium''. A longer-lived isotope <sup>231</sup>Pa was found in 1918 by [[Otto Hahn]] and [[Lise Meitner]], and was named by them protactinium: since it is longer-lived, it gave the element its name.<ref>Otto Hahn, Lise Meitner: ''Die Muttersubstanz des Actiniums, ein Neues Radioaktives Element von Langer Lebensdauer.'' In: ''[[Physikalische Zeitschrift]].'' 1918, 19, S.&nbsp;208–218 ([[doi:10.1002/bbpc.19180241107]]).</ref><ref>Lise Meitner, Otto Hahn: ''Über das Protactinium und die Frage nach der Möglichkeit seiner Herstellung als chemisches Element.'' In: ''[[Die Naturwissenschaften]].'' 1919, 7&nbsp;(33), S.&nbsp;611–612 ([[doi:10.1007/BF01498184]]).</ref> William Crookes in 1900 reported his discovery of the radioelement "uranium X", that later was proven to be mixture of uranium X<sub>1</sub> (<sup>234</sup>Th) and uranium X<sub>2</sub> (<sup>234m</sup>Pa).<ref>{{cite book | last = Emsley | first = John | title = Nature's Building Blocks | edition = (Hardcover, First Edition) | publisher = [[Oxford University Press]] | year = 2001 | pages = [https://archive.org/details/naturesbuildingb0000emsl/page/347 347] | isbn = 0-19-850340-7 | url = https://archive.org/details/naturesbuildingb0000emsl/page/347 }}</ref>
+|-
+| 72
+| [[Hafnium]]
+| 1922
+| [[Dirk Coster|D. Coster]] and [[Georg von Hevesy|G. von Hevesy]]
+| 1924
+| [[Anton Eduard van Arkel]] and [[Jan Hendrik de Boer]]
+| [[Georges Urbain]] claimed to have found the element in rare-earth residues, while [[Vladimir Vernadsky]] independently found it in [[orthite]]. Neither claim was confirmed due to [[World War I]], and neither could be confirmed later, as the chemistry they reported does not match that now known for hafnium. After the war, Coster and Hevesy found it by X-ray spectroscopic analysis in Norwegian zircon.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=hf |title=72 Hafnium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> [[Anton Eduard van Arkel]] and [[Jan Hendrik de Boer]] were the first to prepare metallic hafnium by passing hafnium tetraiodide vapor over a heated [[tungsten]] filament in 1924.<ref name="Ark1924b">{{cite journal|title = Die Trennung des Zirkoniums von anderen Metallen, einschließlich Hafnium, durch fraktionierte Distillation|trans-title=The separation of zirconium from other metals, including hafnium, by fractional distillation| journal = [[Zeitschrift für Anorganische und Allgemeine Chemie]]|volume = 141|issue=1|date = 1924-12-23|pages= 289–296|first1 = A. E.|last1 = van Arkel|author-link1=Anton Eduard van Arkel|last2 = de Boer|first2=J. H.|author-link2=Jan Hendrik de Boer|doi = 10.1002/zaac.19241410118|bibcode=1924ZAACh.141..289V |language = de|url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015006985249|url-access = subscription}}</ref><ref name="Ark1925">{{cite journal|title = Darstellung von reinem Titanium-, Zirkonium-, Hafnium- und Thoriummetall (Production of pure titanium, zirconium, hafnium and Thorium metal)|journal = Zeitschrift für Anorganische und Allgemeine Chemie|volume = 148|date = 1925|pages= 345–350|first = A. E.|last = van Arkel|author2 = de Boer, J. H.|doi = 10.1002/zaac.19251480133|language = de}}</ref> Hafnium was the last stable element to be discovered (noting however the difficulties regarding the discovery of rhenium).
+|-
+| 43
+| [[Technetium]]
+| 1937
+| [[Carlo Perrier|C. Perrier]] and [[Emilio Segrè|E. Segrè]]
+| 1947
+| S. Fried<ref>{{cite journal |last1=Fried |first1=Sherman |date=1948 |title=The Preparation of Technetium Metal|url=https://pubs.acs.org/doi/10.1021/ja01181a537 |journal=Journal of the American Chemical Society |volume=70 |issue=1 |page=442 |doi=10.1021/ja01181a537 |pmid=18918853 |bibcode=1948JAChS..70..442F |access-date=19 February 2025|url-access=subscription }}</ref>
+| The two discovered a new element in a molybdenum sample that was used in a [[cyclotron]], the first element to be discovered by synthesis. It had been predicted by Mendeleev in 1871 as eka-manganese.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=tc |title=43 Technetium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref><ref>''History of the Origin of the Chemical Elements and Their Discoverers'', Individual Element Names and History, "Technetium"</ref><ref>{{cite web|url=http://www2.lbl.gov/Science-Articles/Archive/new-elements-here.html |title=Chemical Elements Discovered at Lawrence Berkeley National Lab  |publisher=Lawrence Berkeley National Laboratory |access-date=2017-03-02}}</ref> In 1952, [[Paul W. Merrill]] found its spectral lines in [[S-type star|S-type]] [[red giant]]s.<ref>{{cite journal|last=Merrill |first=P. W.|journal=Science|volume=115|issue=2992|pages=479–489 [484] |date=1952 |title=Technetium in the stars|doi=10.1126/science.115.2992.479|pmid=17792758 |bibcode=1952Sci...115..479.}}</ref> Minuscule trace quantities were finally found on Earth in 1962 by B. T. Kenna and [[Paul Kuroda|Paul K. Kuroda]]: they isolated it from Belgian Congo [[pitchblende]], where it occurs as a [[spontaneous fission]] product of uranium.<ref>{{cite journal |last1=Kenna |first1=B. T. |last2=Kuroda |first2=P. K. |date=1964 |title=Technetium in Nature |journal=Journal of Inorganic and Nuclear Chemistry |volume=26 |issue=4 |pages=493–499 |doi=10.1016/0022-1902(64)80280-3}}</ref> The Noddacks (rediscoverers of rhenium) claimed to have discovered element&nbsp;43 in 1925 as well and named it ''masurium'' (after [[Masuria]]), but their claims were disproven by Kuroda, who calculated that there cannot have been enough technetium in their samples to have enabled a true detection.<ref>{{cite journal |last1=Habashi |first1=Fathi |date=2006 |title=The History of Element 43—Technetium |url=https://pubs.acs.org/doi/pdf/10.1021/ed083p213.1 |journal=Journal of Chemical Education |volume=83 |issue=2 |page=213 |doi=10.1021/ed083p213.1 |bibcode=2006JChEd..83..213H |access-date=2 January 2023|url-access=subscription }}</ref>
+|-
+| 87
+| [[Francium]]
+| 1939
+| [[Marguerite Perey|M. Perey]]
+| 
+| 
+| Perey discovered it as a decay product of <sup>227</sup>Ac.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=fr |title=87 Francium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Francium was the last element to be discovered in nature, rather than synthesized in the lab, although four of the "synthetic" elements that were discovered later (plutonium, neptunium, astatine, and promethium) were eventually found in trace amounts in nature as well.<ref name="chemeducator">Adloff, Jean-Pierre; Kaufman, George B. (2005-09-25). [http://chemeducator.org/sbibs/s0010005/spapers/1050387gk.htm Francium (Atomic Number 87), the Last Discovered Natural Element] {{webarchive |url=https://web.archive.org/web/20130604212956/http://chemeducator.org/sbibs/s0010005/spapers/1050387gk.htm |date=4 June 2013 }}. ''The Chemical Educator'' '''10''' (5). [2007-03-26]</ref> Before Perey, it is likely that [[Stefan Meyer (physicist)|Stefan Meyer]], Viktor F. Hess, and [[Friedrich Paneth]] had observed the decay of <sup>227</sup>Ac to <sup>223</sup>Fr in Vienna in 1914, but they could not follow up and secure their work because of the outbreak of [[World War I]].<ref name=chemeducator/>
+|-
+| 93
+| [[Neptunium]]
+| 1940
+| [[Edwin McMillan|E.M. McMillan]] and [[Philip H. Abelson|H. Abelson]]
+| 1945
+| S. Fried
+| Obtained by irradiating uranium with neutrons, it was the first [[transuranium element]] discovered.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=np |title=93 Neptunium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Shortly before that, [[Yoshio Nishina]] and [[Kenjiro Kimura]] discovered the uranium isotope <sup>237</sup>U and found that it beta decays into <sup>237</sup>93, but were unable to measure the activity of the element 93 product because its half-life was too long. McMillan and Abelson succeeded because they used <sup>239</sup>U, as <sup>239</sup>93 has a much shorter half-life.<ref name="Ikeda">{{cite journal |last1=Ikeda |first1=Nagao |date=25 July 2011 |title=The discoveries of uranium 237 and symmetric fission — From the archival papers of Nishina and Kimura |journal=Proceedings of the Japan Academy, Series B: Physical and Biological Sciences |volume=87 |issue=7 |pages=371–6 |doi=10.2183/pjab.87.371 |bibcode=2011PJAB...87..371I |pmc=3171289 |pmid=21785255}}</ref> McMillan and Abelson found that <sup>239</sup>93 itself undergoes beta decay and must produce an isotope of element 94, but the quantities they used were not enough to isolate and identify element 94 along with 93.<ref>{{cite book|first1 = David L.|last1 = Clark|first2 = Siegfried S.|last2 = Hecker|first3 = Gordon D.|last3 = Jarvinen|first4 = Mary P.|last4 = Neu|contribution = Neptunium|title = The Chemistry of the Actinide and Transactinide Elements|editor1-first = Lester R.|editor1-last = Morss|editor2-first = Norman M.|editor2-last = Edelstein|editor3-first = Jean|editor3-last = Fuger|edition = 3rd|date = 2006|volume = 3|publisher = Springer|location = Dordrecht, the Netherlands|page = 814|url = http://radchem.nevada.edu/classes/rdch710/files/plutonium.pdf|doi = 10.1007/1-4020-3598-5_7|isbn = 978-1-4020-3555-5|access-date = 2014-06-29|archive-date = 2010-07-17|archive-url = https://web.archive.org/web/20100717155138/http://radchem.nevada.edu/classes/rdch710/files/Plutonium.pdf}}</ref> Natural traces were found in Belgian Congo pitchblende by D. F. Peppard et al. in 1952.<ref name=4n1>{{cite journal |last1=Peppard |first1=D. F. |last2=Mason |first2=G. W. |last3=Gray |first3=P. R. |last4=Mech |first4=J. F. |title=Occurrence of the (4n + 1) series in nature |journal=Journal of the American Chemical Society |date=1952 |volume=74 |issue=23 |pages=6081–6084 |doi=10.1021/ja01143a074 |bibcode=1952JAChS..74.6081P |url=https://digital.library.unt.edu/ark:/67531/metadc172698/m2/1/high_res_d/metadc172698.pdf |archive-url=https://web.archive.org/web/20190429182951/https://digital.library.unt.edu/ark:/67531/metadc172698/m2/1/high_res_d/metadc172698.pdf |archive-date=2019-04-29 |url-status=live }}</ref>
+|-
+| 85
+| [[Astatine]]
+| 1940
+| [[Dale R. Corson|D. R. Corson]], [[Kenneth Ross MacKenzie|K. R. MacKenzie]] and [[Emilio Segrè|E. Segrè]]
+| 
+| 
+| Obtained by bombarding bismuth with alpha particles.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=at |title=85 Astatine  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> In 1943, [[Berta Karlik]] and [[Traude Bernert]] found it in nature; due to [[World War II]], they were initially unaware of Corson et al.'s results.<ref name=findingekaiodine/> [[Horia Hulubei]] and [[Yvette Cauchois]] had previously claimed its discovery as a natural radioelement from 1936, naming it ''dor'': they likely did have the isotope <sup>218</sup>At, and probably did have enough sensitivity to distinguish its spectral lines. But they could not chemically identify their discovery, and their work was doubted because of an earlier false claim by Hulubei to having discovered element 87.<ref name=findingekaiodine>{{cite journal|title= Finding Eka-Iodine: Discovery Priority in Modern Times|first1=S. C.|last1= Burdette|first2= B. F.|last2= Thornton|journal=Bulletin for the History of Chemistry |year=2010 |volume=35 |issue=2 |pages=86–96|doi=10.70359/bhc2010v035p086 |url=http://www.scs.illinois.edu/~mainzv/HIST/bulletin_open_access/v35-2/v35-2%20p86-96.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.scs.illinois.edu/~mainzv/HIST/bulletin_open_access/v35-2/v35-2%20p86-96.pdf |archive-date=2022-10-09 |url-status=live}}</ref><ref>{{cite book| title = A Tale of 7 Elements| year = 2013| edition = Google Play| pages = [https://archive.org/details/taleofseveneleme0000scer/page/188 188–190, 206]| first1 = E.| last1 = Scerri| publisher = Oxford University Press| isbn = 978-0-19-539131-2| url = https://archive.org/details/taleofseveneleme0000scer/page/188}}</ref>
+|-
+| 94
+| [[Plutonium]]
+| 1941
+| [[Glenn T. Seaborg]], [[Arthur Wahl|Arthur C. Wahl]], [[Joseph W. Kennedy|W. Kennedy]] and E.M. McMillan
+| 1943
+| H. L. Baumbach, S. Fried, P. L. Kirk and, R. S. Rosenfels<ref>[https://sgp.fas.org/othergov/doe/lanl/00326637.pdf Plutonium Metal, Los Alamos Science, Number 23, 1995.]</ref>
+| Prepared by bombardment of uranium with deuterons.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=pu |title=94 Plutonium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Seaborg and Morris L. Perlman then found it as traces in natural Canadian [[pitchblende]] in 1941–1942, though this work was kept secret until 1948.<ref>{{cite journal |last1=Seaborg |first1=Glenn T. |last2=Perlman |first2=Morris L. |date=1948 |title=Search for Elements 94 and 93 in Nature. Presence of 94<sup>239</sup> in Pitchblende |url= |journal=J. Am. Chem. Soc. |volume=70 |issue=4 |pages=1571–1573 |doi=10.1021/ja01184a083|pmid=18915775 |bibcode=1948JAChS..70.1571S }}</ref> The first sample of plutonium metal was created from the reduction of [[plutonium trifluoride]] in November 1943.<ref>{{Cite book |last1=Miner |first1=William N. |title=The Encyclopedia of the Chemical Elements |last2=Schonfeld, Fred W. |publisher=Reinhold Book Corporation |year=1968 |editor-last=Clifford A. Hampel |location=New York (NY) |page=541 |chapter=Plutonium |lccn=68029938 |chapter-url=https://archive.org/details/encyclopediaofch00hamp |chapter-url-access=registration}}</ref>
+|-
+| 96
+| [[Curium]]
+| 1944
+| Glenn T. Seaborg, [[Ralph A. James]] and [[Albert Ghiorso]]
+| 1950
+| J. C. Wallmann, W. W. T. Crane and B. B. Cunningham
+| Prepared by bombarding plutonium with alpha particles during the Manhattan Project.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=cm |title=96 Curium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Curium metal was produced in 1950 by reduction of CmF<sub>3</sub> with [[barium]].<ref name="CM_METALL">{{cite journal|first1 = J. C.|last1 = Wallmann|first2 = W. W. T.|last2 = Crane|first3 = B. B.|last3 = Cunningham|title = The Preparation and Some Properties of Curium Metal|journal = [[Journal of the American Chemical Society]]|date = 1951|volume =73|issue =1|pages = 493–494|doi = 10.1021/ja01145a537| bibcode=1951JAChS..73..493W |hdl = 2027/mdp.39015086479790|url = https://cloudfront.escholarship.org/dist/prd/content/qt51t3d12j/qt51t3d12j.pdf}}</ref>
+|-
+| 95
+| [[Americium]]
+| 1944
+| G. T. Seaborg, R. A. James, [[Leon O. Morgan|O. Morgan]] and A. Ghiorso
+| 1951
+| Edgar F. Westrum Jr. and LeRoy Eyring
+| Prepared by irradiating plutonium with neutrons during the [[Manhattan Project]].<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=am |title=95 Americium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Americium metal was produced in 1951 by reduction of AmF<sub>3</sub> with [[barium]].<ref>{{cite journal | last1=Westrum | first1=Edgar F. | last2=Eyring | first2=LeRoy | title=The Preparation and Some Properties of Americium Metal 1 | journal=Journal of the American Chemical Society | volume=73 | issue=7 | date=1951 | issn=0002-7863 | doi=10.1021/ja01151a116 | doi-access=free | pages=3396–3398 | bibcode=1951JAChS..73.3396W | hdl=2027/mdp.39015086480962 | hdl-access=free }}</ref>
+|-
+| 61
+| [[Promethium]]
+| 1945	
+| [[Jacob A. Marinsky]], [[Lawrence E. Glendenin]], and [[Charles D. Coryell]]
+| 1963
+| F. Weigel
+| It was probably first prepared at the Ohio State University in 1942 by bombarding neodymium and praseodymium with neutrons, but separation of the element could not be carried out. Isolation was performed under the Manhattan Project in 1945.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=Pm |title=61 Promethium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> The metal was later isolated by F. Weigel in 1963, by reducing [[promethium fluoride]] with lithium.<ref>{{cite book |last=Emsley |first=John |title=Nature's Building Blocks: An A-Z Guide to the Elements |url=https://books.google.com/books?id=2EfYXzwPo3UC&pg=PA428 |year=2011 |publisher=Oxford University Press |isbn=978-0-19-960563-7 |page=429 }}</ref> Found on Earth in trace quantities by [[Olavi Erämetsä]] in 1965; so far, promethium is the most recent element to have been found on Earth.<ref>{{Ullmann|volume=31|page=188|last1=McGill|first1=Ian|contribution=Rare Earth Elements|doi=10.1002/14356007.a22_607}}</ref>
+|-
+| 97
+| [[Berkelium]]
+| 1949
+| [[Stanley G. Thompson|G. Thompson]], A. Ghiorso and G. T. Seaborg <small>([[University of California, Berkeley]])</small>
+| 1969
+| J. R. Peterson, J. A. Fahey, and R. D. Baybarz
+| Created by bombardment of americium with alpha particles.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=bk |title=97 Berkelium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 98
+| [[Californium]]
+| 1950
+| S. G. Thompson, [[Kenneth Street, Jr.|K. Street, Jr.]], A. Ghiorso and G. T. Seaborg <small>(University of California, Berkeley)</small>
+| 1974
+| R. G. Haire and R. D. Baybarz
+| Bombardment of curium with alpha particles.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=cf |title=98 Californium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Californium metal was produced in 1974 by reduction of Cf<sub>2</sub>O<sub>3</sub> with [[lanthanum]].<ref>{{cite journal |last1=Haire |first1=R. G. |last2=Baybarz |first2=R. D. |title=Crystal Structure and Melting Point of Californium Metal |journal=Journal of Inorganic and Nuclear Chemistry |volume=36 |issue=6 |page=1295 |date=1974 |doi=10.1016/0022-1902(74)80067-9 }}</ref>
+|-
+| 99
+| [[Einsteinium]]
+| 1952
+| A. Ghiorso et al. <small>([[Argonne Laboratory]], [[Los Alamos Laboratory]] and University of California, Berkeley)</small>
+| 1979
+| R. G. Haire and R. D. Baybarz
+| Formed in the first thermonuclear explosion in November 1952, by irradiation of uranium with neutrons; kept secret for several years.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=es |title=99 Einsteinium |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Einsteinium metal was produced in 1979 by reduction of Es<sub>2</sub>O<sub>3</sub> with [[lanthanum]].<ref>{{cite journal |last1=Haire |first1=R. G. |last2=Baybarz |first2=R. D. |title=Studies of einsteinium metal |journal=Journal de Physique, Colloque C4, supplément au n° 4 |volume=40 |pages=C4-101–C4-102|date=1979 |doi=10.1051/jphyscol:1979431 |url=https://hal.science/jpa-00218827 }}</ref>
+|-
+| 100
+| [[Fermium]]
+| 1953
+| A. Ghiorso et al. <small>(Argonne Laboratory, Los Alamos Laboratory and University of California, Berkeley)</small>
+| 
+| 
+| Formed in the first thermonuclear explosion in November 1952, by irradiation of uranium with neutrons; first identified in early 1953; kept secret for several years.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=fm |title=100 Fermium |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 101
+| [[Mendelevium]]
+| 1955
+| A. Ghiorso, [[Bernard G. Harvey|G. Harvey]], [[Gregory R. Choppin|G. R. Choppin]], S. G. Thompson and G. T. Seaborg <small>([[Lawrence Berkeley National Laboratory|Berkeley Radiation Laboratory]])</small>
+| 
+| 
+| Prepared by bombardment of einsteinium with alpha particles.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=md |title=101 Mendelevium |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 103
+| [[Lawrencium]]
+| 1961
+| A. Ghiorso, [[Torbjørn Sikkeland|T. Sikkeland]], [[Almon E. Larsh|E. Larsh]] and [[Robert M. Latimer|M. Latimer]] <small>([[Lawrence Berkeley National Laboratory|Berkeley Radiation Laboratory]])</small>
+| 
+| 
+| First prepared by bombardment of californium with boron atoms.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=lr |title=103 Lawrencium |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 102
+| [[Nobelium]]
+| 1965<!--submitted in 1965, published in 1966-->
+| E. D. Donets, V. A. Shchegolev and V. A. Ermakov <small>([[Joint Institute for Nuclear Research|JINR]] in [[Dubna]])</small>
+| 
+| 
+| First prepared by bombardment of uranium with neon atoms.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=no |title=102 Nobelium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> Its discovery was originally claimed by the Nobel Institute for Physics in 1957; although the claim was later retracted, their proposed name ''nobelium'' remains in use. Ghiorso's team at Berkeley claimed the discovery in 1958, but the first complete and incontrovertible report of its detection only came in 1966 from JINR in Dubna, on the basis of experiments done in 1965.<ref name="93TWG">{{Cite journal |doi=10.1351/pac199365081757 |title=Discovery of the transfermium elements. Part II: Introduction to discovery profiles. Part III: Discovery profiles of the transfermium elements |year=1993 |last1=Barber |first1=Robert C. |journal=Pure and Applied Chemistry |volume=65 |page=1757 |last2=Greenwood |first2=Norman N. |last3=Hrynkiewicz |first3=Andrzej Z. |last4=Jeannin |first4=Yves P. |last5=Lefort |first5=Marc |last6=Sakai |first6=Mitsuo |last7=Úlehla |first7=Ivan M. |last8=Wapstra |first8=Aaldert Hendrik |last9=Wilkinson |first9=Denys H. |s2cid=195819585 |issue=8|doi-access=free }} (Note: for Part I see Pure and Applied Chemistry, vol. 63, no. 6, pp. 879–886, 1991)</ref>
+|-
+| 104
+| [[Rutherfordium]]
+| 1969
+| A. Ghiorso et al. <small>([[Lawrence Berkeley National Laboratory|Berkeley Radiation Laboratory]])</small> and I. Zvara et al. <small>(JINR in Dubna)</small>
+| 
+| 
+| Prepared by bombardment of californium with carbon atoms by Albert Ghiorso's team and by bombardment of plutonium with neon atoms by Zvara's team.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=rf |title=104 Rutherfordium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> JINR originally claimed the discovery in 1964 and named the element ''kurchatovium'', but IUPAC did not consider this result sufficiently convincing.<ref name="93TWG" />
+|-
+| 105
+| [[Dubnium]]
+| 1970
+| A. Ghiorso et al. <small>([[Lawrence Berkeley National Laboratory|Berkeley Radiation Laboratory]])</small> and V. A. Druin et al. <small>(JINR in Dubna)</small>
+| 
+| 
+| Prepared by bombardment of californium with nitrogen atoms by Ghiorso's team and by bombardment of americium with neon atoms by Druin's team.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=db |title=105 Dubnium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> JINR originally claimed the discovery in 1968 and named the element ''nielsbohrium'', but IUPAC did not consider this result sufficiently convincing.<ref name="93TWG" /> Ghiorso's team proposed the name ''hahnium'', but [[IUPAC]] ultimately adopted the name ''dubnium'' in 1997.
+|-
+| 106
+| [[Seaborgium]]
+| 1974
+| A. Ghiorso et al. <small>([[Lawrence Berkeley National Laboratory|Berkeley Radiation Laboratory]])</small>
+| 
+| 
+| Prepared by bombardment of californium with oxygen atoms.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=sg |title=106 Seaborgium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref> JINR originally claimed the discovery in 1974, but IUPAC did not consider this result sufficiently convincing.<ref name="93TWG" />
+|-
+| 107
+| [[Bohrium]]
+| 1981
+| [[Gottfried Münzenberg|G.Münzenberg]] et al. <small>([[GSI Helmholtz Centre for Heavy Ion Research|GSI in Darmstadt]])</small>
+| 
+| 
+| Obtained by bombarding bismuth with chromium.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=bh |title=107 Bohrium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 109
+| [[Meitnerium]]
+| 1982
+| G. Münzenberg, [[Peter Armbruster|P. Armbruster]] et al. <small>(GSI in Darmstadt)</small>
+| 
+| 
+| Prepared by bombardment of bismuth with iron atoms.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=mt |title=109 Meitnerium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 108
+| [[Hassium]]
+| 1984
+| G. Münzenberg, P. Armbruster et al. <small>(GSI in Darmstadt)</small>
+| 
+| 
+| Prepared by bombardment of lead with iron atoms.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=hs |title=108 Hassium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 110
+| [[Darmstadtium]]
+| 1994
+| [[Sigurd Hofmann|S. Hofmann]] et al. <small>(GSI in Darmstadt)</small>
+| 
+| 
+| Prepared by bombardment of lead with nickel.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=ds |title=110 Darmstadtium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 111
+| [[Roentgenium]]
+| 1994
+| S. Hofmann et al. <small>(GSI in Darmstadt)</small>
+| 
+| 
+| Prepared by bombardment of bismuth with nickel.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=rg |title=111 Roentgenium  |publisher=Elements.vanderkrogt.net |access-date=2008-09-12}}</ref>
+|-
+| 112
+| [[Copernicium]]
+| 1996
+| S. Hofmann et al. <small>(GSI in Darmstadt)</small>
+| 
+| 
+| Prepared by bombardment of lead with zinc.<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=cn |title=112 Copernicium  |publisher=Elements.vanderkrogt.net |access-date=2009-07-17}}</ref><ref>{{cite web|url=http://www.iupac.org/web/nt/2009-06-26_Uub |title=Discovery of the Element with Atomic Number 112 |publisher=www.iupac.org |date=2009-06-26 |access-date=2009-07-17 |archive-url=https://web.archive.org/web/20091221072744/http://www.iupac.org/web/nt/2009-06-26_Uub |archive-date=2009-12-21 }}</ref>
+|-
+| 114
+| [[Flerovium]]
+| 1999
+| [[Yuri Oganessian|Y. Oganessian]] et al. <small>(JINR in Dubna)</small>
+| 
+| 
+| Prepared by bombardment of plutonium with calcium. It was likely observed earlier at Dubna in 1998, but that result has not been confirmed.<ref>{{cite journal | last1 = Oganessian | first1 = Yu. Ts. |date=October 1999 | title = Synthesis of Superheavy Nuclei in the <sup>48</sup>Ca + <sup>244</sup>Pu Reaction | journal = [[Physical Review Letters]] | volume = 83 | page = 3154 | doi =  10.1103/PhysRevLett.83.3154 | last2 = Utyonkov | first2 = V. K. | last3 = Lobanov | first3 = Yu. V. | last4 = Abdullin | first4 = F. Sh. | last5 = Polyakov | first5 = A. N. | last6 = Shirokovsky | first6 = I. V. | last7 = Tsyganov | first7 = Yu. S. | last8 = Gulbekian | first8 = G. G. | last9 = Bogomolov | first9 = S. L. | last10 = Gikal | first10 = B. | last11 = Mezentsev | first11 = A. | last12 = Iliev | first12 = S. | last13 = Subbotin | first13 = V. | last14 = Sukhov | first14 = A. | last15 = Buklanov | first15 = G. | last16 = Subotic | first16 = K. | last17 = Itkis | first17 = M. | last18 = Moody | first18 = K. | last19 = Wild | first19 = J. | last20 = Stoyer | first20 = N. | last21 = Stoyer | first21 = M. | last22 = Lougheed | first22 = R. | s2cid = 109929705 | issue = 16 | bibcode=1999PhRvL..83.3154O}}</ref>
+|-
+| 116
+| [[Livermorium]]
+| 2000
+| Y. Oganessian et al. <small>(JINR in Dubna)</small>
+| 
+| 
+| Prepared by bombardment of curium with calcium.<ref>{{cite journal | last1 = Oganessian | first1 = Yu. Ts. | year = 2000 | title = Observation of the decay of <sup>292</sup>116 | journal = [[Physical Review C]] | volume = 63 | issue = 1 | article-number = 011301 | doi =  10.1103/PhysRevC.63.011301 | last2 = Utyonkov | first2 = V. K. | last3 = Lobanov | first3 = Yu. V. | last4 = Abdullin | first4 = F. Sh. | last5 = Polyakov | first5 = A. N. | last6 = Shirokovsky | first6 = I. V. | last7 = Tsyganov | first7 = Yu. S. | last8 = Gulbekian | first8 = G. G. | last9 = Bogomolov | first9 = S. L. | last10 = Gikal | first10 = B. | last11 = Mezentsev | first11 = A. | last12 = Iliev | first12 = S. | last13 = Subbotin | first13 = V. | last14 = Sukhov | first14 = A. | last15 = Ivanov | first15 = O. | last16 = Buklanov | first16 = G. | last17 = Subotic | first17 = K. | last18 = Itkis | first18 = M. | last19 = Moody | first19 = K. | last20 = Wild | first20 = J. | last21 = Stoyer | first21 = N. | last22 = Stoyer | first22 = M. | last23 = Lougheed | first23 = R. | last24 = Laue | first24 = C. | last25 = Karelin | first25 = Ye. | last26 = Tatarinov | first26 = A. |bibcode = 2000PhRvC..63a1301O }}</ref>
+|-
+| 118
+|[[Oganesson]]
+| 2002
+| Y. Oganessian et al. <small>(JINR in Dubna)</small>
+|
+|
+|Prepared by bombardment of californium with calcium.<ref>{{cite journal | last1 = Oganessian | first1 = Yu. Ts. | year = 2006 | title = Synthesis of the isotopes of elements 118 and 116 in the <sup>249</sup>Cf and <sup>245</sup>Cm+<sup>48</sup>Ca fusion reactions | journal = [[Physical Review C]] | volume = 74 | article-number = 044602 | doi =  10.1103/PhysRevC.74.044602 | last2 = Utyonkov | first2 = V. K. | last3 = Lobanov | first3 = Yu. V. | last4 = Abdullin | first4 = F. Sh. | last5 = Polyakov | first5 = A. N. | last6 = Sagaidak | first6 = R. N. | last7 = Shirokovsky | first7 = I. V. | last8 = Tsyganov | first8 = Yu. S. | last9 = Voinov | first9 = A. A. | last10 = Gulbekian | first10 = G. | last11 = Bogomolov | first11 = S. | last12 = Gikal | first12 = B. | last13 = Mezentsev | first13 = A. | last14 = Iliev | first14 = S. | last15 = Subbotin | first15 = V. | last16 = Sukhov | first16 = A. | last17 = Subotic | first17 = K. | last18 = Zagrebaev | first18 = V. | last19 = Vostokin | first19 = G. | last20 = Itkis | first20 = M. | last21 = Moody | first21 = K. | last22 = Patin | first22 = J. | last23 = Shaughnessy | first23 = D. | last24 = Stoyer | first24 = M. | last25 = Stoyer | first25 = N. | last26 = Wilk | first26 = P. | last27 = Kenneally | first27 = J. | last28 = Landrum | first28 = J. | last29 = Wild | first29 = J. | last30 = Lougheed | first30 = R. | issue = 4 |bibcode = 2006PhRvC..74d4602O | doi-access = free }}</ref>
+|-
+| 115
+|[[Moscovium]]
+| 2003
+| Y. Oganessian et al. <small>(JINR in Dubna)</small>
+|
+|
+|Prepared by bombardment of americium with calcium.<ref name="113+115">{{cite journal | last1 = Oganessian | first1 = Yu. Ts. | year = 2005 | title = Synthesis of elements 115 and 113 in the reaction <sup>243</sup>Am + <sup>48</sup>Ca | journal = [[Physical Review C]] | volume = 72 | article-number = 034611 | doi =  10.1103/PhysRevC.72.034611 | last2 = Utyonkov | first2 = V. K. | last3 = Dmitriev | first3 = S. N. | last4 = Lobanov | first4 = Yu. V. | last5 = Itkis | first5 = M. G. | last6 = Polyakov | first6 = A. N. | last7 = Tsyganov | first7 = Yu. S. | last8 = Mezentsev | first8 = A. N. | last9 = Yeremin | first9 = A. V. | last10 = Voinov | first10 = A. | last11 = Sokol | first11 = E. | last12 = Gulbekian | first12 = G. | last13 = Bogomolov | first13 = S. | last14 = Iliev | first14 = S. | last15 = Subbotin | first15 = V. | last16 = Sukhov | first16 = A. | last17 = Buklanov | first17 = G. | last18 = Shishkin | first18 = S. | last19 = Chepygin | first19 = V. | last20 = Vostokin | first20 = G. | last21 = Aksenov | first21 = N. | last22 = Hussonnois | first22 = M. | last23 = Subotic | first23 = K. | last24 = Zagrebaev | first24 = V. | last25 = Moody | first25 = K. | last26 = Patin | first26 = J. | last27 = Wild | first27 = J. | last28 = Stoyer | first28 = M. | last29 = Stoyer | first29 = N. | last30 = Shaughnessy | first30 = D. | issue = 3 |bibcode = 2005PhRvC..72c4611O | display-authors = 29 | url = https://www.dora.lib4ri.ch/psi/islandora/object/psi%3A13194/datastream/PDF/view }}</ref>
+|-
+| 113
+|[[Nihonium]]
+| 2003–2004
+| Y. Oganessian et al. <small>(JINR in Dubna)</small> and K. Morita et al. <small>([[RIKEN]] in Wako, Japan)</small>
+|
+|
+| Prepared by decay of moscovium by Oganessian's team<ref name="113+115"/> and bombardment of bismuth with zinc by Morita's team.<ref name=04Mo01>{{cite journal|title=Experiment on the Synthesis of Element 113 in the Reaction <sup>209</sup>Bi(<sup>70</sup>Zn,n)<sup>278</sup>113|year=2004|journal=Journal of the Physical Society of Japan|volume=73|issue=10|pages=2593–2596|doi=10.1143/JPSJ.73.2593|bibcode=2004JPSJ...73.2593M|last1=Morita|first1=Kosuke|last2=Morimoto|first2=Kouji|last3=Kaji|first3=Daiya|last4=Akiyama|first4=Takahiro|last5=Goto|first5=Sin-ichi|last6=Haba|first6=Hiromitsu|first7=Eiji |last7=Ideguchi|first8=Rituparna |last8=Kanungo|first9=Kenji |last9=Katori|first10=Hiroyuki |last10=Koura|first11=Hisaaki |last11=Kudo|first12=Tetsuya |last12=Ohnishi|first13=Akira |last13=Ozawa|first14=Toshimi |last14=Suda|first15=Keisuke |last15=Sueki|first16=HuShan |last16=Xu|first17=Takayuki |last17=Yamaguchi|first18=Akira |last18=Yoneda|first19=Atsushi |last19=Yoshida|first20=YuLiang |last20=Zhao|doi-access=free}}</ref> Both teams began their experiments in 2003; Oganessian's team detected its first atom in 2003, but Morita's only in 2004. However, both teams published in 2004.
+|-
+| 117
+|[[Tennessine]]
+| 2009
+| Y. Oganessian et al. <small>(JINR in Dubna)</small>
+|
+|
+|Prepared by bombardment of berkelium with calcium.<ref>{{cite journal | last1 = Oganessian | first1 = Yu. Ts. |date=April 2010 | title = Synthesis of a New Element with Atomic Number Z=117 | journal = [[Physical Review Letters]] | volume = 104 | article-number = 142502 | doi =  10.1103/PhysRevLett.104.142502 | last2 = Abdullin | first2 = F. Sh. | last3 = Bailey | first3 = P. D. | last4 = Benker | first4 = D. E. | last5 = Bennett | first5 = M. E. | last6 = Dmitriev | first6 = S. N. | last7 = Ezold | first7 = J. G. | last8 = Hamilton | first8 = J. H. | last9 = Henderson | first9 = R. A. | last10 = Itkis | first10 = M. G. | last11 = Lobanov | first11 = Yu. V. | last12 = Mezentsev | first12 = A. N. | last13 = Moody | first13 = K. J. | last14 = Nelson | first14 = S. L. | last15 = Polyakov | first15 = A. N. | last16 = Porter | first16 = C. E. | last17 = Ramayya | first17 = A. V. | last18 = Riley | first18 = F. D. | last19 = Roberto | first19 = J. B. | last20 = Ryabinin | first20 = M. A. | last21 = Rykaczewski | first21 = K. P. | last22 = Sagaidak | first22 = R. N. | last23 = Shaughnessy | first23 = D. A. | last24 = Shirokovsky | first24 = I. V. | last25 = Stoyer | first25 = M. A. | last26 = Subbotin | first26 = V. G. | last27 = Sudowe | first27 = R. | last28 = Sukhov | first28 = A. M. | last29 = Tsyganov | first29 = Yu. S. | last30 = Utyonkov | first30 = V. K. | pmid = 20481935 | issue = 14 | bibcode=2010PhRvL.104n2502O| display-authors = 29 | doi-access = free }}</ref>
+|}
+
+==See also==
+* [[History of the periodic table]]
+* [[Periodic table]]
+* [[Extended periodic table]]
+* [[The Mystery of Matter|''The Mystery of Matter: Search for the Elements'' (2014/2015 PBS film)]]
+* [[Transfermium Wars]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.nndc.bnl.gov/content/elements.html History of the Origin of the Chemical Elements and Their Discoverers] Last updated by Boris Pritychenko on 30 March 2004
+*[http://www.ausetute.com.au/elemhist.html History of Elements of the Periodic Table] {{Webarchive|url=https://web.archive.org/web/20100918010009/http://www.ausetute.com.au/elemhist.html |date=18 September 2010 }}
+*[http://chemistry.about.com/library/weekly/aa030303a.htm Timeline of Element Discoveries] {{Webarchive|url=https://web.archive.org/web/20090208130034/http://chemistry.about.com/library/weekly/aa030303a.htm |date=2009-02-08 }}
+*[http://historyscoper.com/chemicalelementscope.html The Historyscoper]
+*[https://www.youtube.com/watch?v=U9n8AyOsGRM Discovery of the Elements – The Movie – YouTube] (1:18)
+*[http://www.makin-metals.com/about/history-of-metals-infographic/ The History Of Metals Timeline] {{Webarchive|url=https://web.archive.org/web/20211220182822/http://www.makin-metals.com/about/history-of-metals-infographic/ |date=2021-12-20 }}. A timeline showing the discovery of metals and the development of metallurgy.
+*—Eric Scerri, 2007, ''The periodic table: Its story and its significance,'' Oxford University Press, New York, {{ISBN|9780195305739}}
+
+{{Navbox periodic table}}
+{{Branches of chemistry}}
+{{History of chemistry}}
+
+[[Category:Chemistry timelines|Elements, discoveries]]
+[[Category:Discoverers of chemical elements|Timeline]]
+[[Category:History of chemistry]]
+[[Category:History of physics]]
+[[Category:Lists of chemical elements|Discovery]]
