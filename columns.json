@@ -1,5 +1,5 @@
 {
- "name": "Chemical elements",
+ "name": "Elements",
  "item": "element",
  "items": "elements",
  "title": "name",
@@ -88,11 +88,11 @@
    "digits": 4
   },
   {
-   "name": "density (g/cm³)",
+   "name": "density (kg/m³)",
    "type": "number",
    "scale": "log",
    "label": "Density",
-   "unit": "g/cm³",
+   "unit": "kg/m³",
    "digits": 3
   },
   {

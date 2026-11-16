@@ -6,7 +6,8 @@ typed in here except how the sources' words are mapped onto columns (CATEGORY be
   python3 build.py
 
 Where each column comes from:
-  name, symbol, atomic number, group, period, block, atomic weight, density, melting point, occurrence, state,
+  name, symbol, atomic number, group, period, block, atomic weight, density (g/cm³ there, kg/m³ here),
+  melting point (kelvin there, °C here), occurrence, state,
   name origin      Wikipedia, "List of chemical elements" (sources/list.html)
   kind             Periodic-Table-JSON's "category" (sources/ptj.json), arranged as a tree (CATEGORY)
   discovered       Wikipedia, "Timeline of chemical element discoveries" (sources/timeline.wiki): the year in the
@@ -42,7 +43,7 @@ CATEGORY = {
 # How the dataset looks and is asked in the Knack app. The embedding columns (photo look, name sound) are added by
 # embed.py and the app's `npm run describe`; build.py keeps them if columns.json already has them.
 META = {
-    'name': 'Chemical elements', 'item': 'element', 'items': 'elements', 'title': 'name',
+    'name': 'Elements', 'item': 'element', 'items': 'elements', 'title': 'name',
     'practices': [
         {'name': 'Symbols', 'columns': ['name', 'symbol']},
         {'name': 'Where it sits', 'columns': ['name', 'atomic number', 'group', 'kind']},
@@ -60,7 +61,7 @@ META = {
         {'name': 'state', 'type': 'plain', 'label': 'State at 25 °C', 'order': ['solid', 'liquid', 'gas']},
         {'name': 'discovered', 'type': 'number'},
         {'name': 'atomic weight', 'type': 'number', 'digits': 4},
-        {'name': 'density (g/cm³)', 'type': 'number', 'scale': 'log', 'label': 'Density', 'unit': 'g/cm³', 'digits': 3},
+        {'name': 'density (kg/m³)', 'type': 'number', 'scale': 'log', 'label': 'Density', 'unit': 'kg/m³', 'digits': 3},
         {'name': 'melting point (°C)', 'type': 'number', 'label': 'Melting point', 'unit': '°C', 'digits': 3},
         {'name': 'occurrence', 'type': 'plain', 'order': ['primordial', 'from decay', 'synthetic']},
         {'name': 'name origin', 'type': 'plain', 'size': 'normal'},
@@ -141,7 +142,7 @@ if __name__ == '__main__':
             'state': w['state'],
             'discovered': None if z in ancient else years[z],
             'atomic weight': w['atomic weight'],
-            'density (g/cm³)': w['density'],
+            'density (kg/m³)': None if w['density'] is None else round(w['density'] * 1000, 6),  # Wikipedia gives g/cm³
             'melting point (°C)': None if w['melt K'] is None else round(w['melt K'] - 273.15, 2),
             'occurrence': w['occurrence'],
             'name origin': w['name origin'],
