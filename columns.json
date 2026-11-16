@@ -1,0 +1,134 @@
+{
+ "name": "Elements",
+ "item": "element",
+ "items": "elements",
+ "title": "name",
+ "practices": [
+  {
+   "name": "Symbols",
+   "columns": [
+    "name",
+    "symbol"
+   ]
+  },
+  {
+   "name": "Where it sits",
+   "columns": [
+    "name",
+    "atomic number",
+    "group",
+    "kind"
+   ]
+  },
+  {
+   "name": "What it looks like",
+   "columns": [
+    "photo",
+    "name"
+   ]
+  }
+ ],
+ "columns": [
+  {
+   "name": "name",
+   "type": "text"
+  },
+  {
+   "name": "symbol",
+   "type": "plain"
+  },
+  {
+   "name": "photo",
+   "type": "plain",
+   "media": "image"
+  },
+  {
+   "name": "atomic number",
+   "type": "number"
+  },
+  {
+   "name": "kind",
+   "type": "tree"
+  },
+  {
+   "name": "group",
+   "type": "number"
+  },
+  {
+   "name": "period",
+   "type": "number"
+  },
+  {
+   "name": "block",
+   "type": "plain",
+   "order": [
+    "s-block",
+    "p-block",
+    "d-block",
+    "f-block"
+   ]
+  },
+  {
+   "name": "state",
+   "type": "plain",
+   "label": "State at 25 °C",
+   "order": [
+    "solid",
+    "liquid",
+    "gas"
+   ]
+  },
+  {
+   "name": "discovered",
+   "type": "number"
+  },
+  {
+   "name": "atomic weight",
+   "type": "number",
+   "digits": 4
+  },
+  {
+   "name": "density (kg/m³)",
+   "type": "number",
+   "scale": "log",
+   "label": "Density",
+   "unit": "kg/m³",
+   "digits": 3
+  },
+  {
+   "name": "melting point (°C)",
+   "type": "number",
+   "label": "Melting point",
+   "unit": "°C",
+   "digits": 3
+  },
+  {
+   "name": "occurrence",
+   "type": "plain",
+   "order": [
+    "primordial",
+    "from decay",
+    "synthetic"
+   ]
+  },
+  {
+   "name": "name origin",
+   "type": "plain",
+   "size": "normal"
+  },
+  {
+   "name": "name sound",
+   "type": "embedding",
+   "file": "name-sound.npy",
+   "of": "name",
+   "model": "bookbot/onnx-byt5-small-wikipron-eng-latn-au-broad"
+  },
+  {
+   "name": "photo look",
+   "type": "embedding",
+   "file": "photo-look.npy",
+   "of": "photo",
+   "model": "facebook/dinov2-base"
+  }
+ ]
+}
