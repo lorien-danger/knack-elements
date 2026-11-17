@@ -35,7 +35,7 @@
   },
   {
    "name": "symbol",
-   "type": "plain"
+   "type": "text"
   },
   {
    "name": "photo",

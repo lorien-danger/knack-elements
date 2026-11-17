@@ -51,7 +51,8 @@ META = {
     ],
     'columns': [
         {'name': 'name', 'type': 'text'},
-        {'name': 'symbol', 'type': 'plain'},
+        # text, not plain: symbols that share letters (Hs, Hf, He) are near, so they are offered against each other
+        {'name': 'symbol', 'type': 'text'},
         {'name': 'photo', 'type': 'plain', 'media': 'image'},
         {'name': 'atomic number', 'type': 'number'},
         {'name': 'kind', 'type': 'tree'},
