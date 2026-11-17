@@ -124,7 +124,10 @@ if __name__ == '__main__':
     assert not missing, f'no discovery row for {sorted(missing)}'
     assert not ancient & set(years), ancient & set(years)
     old = json.loads((ROOT / 'columns.json').read_text()) if (ROOT / 'columns.json').exists() else {'columns': []}
-    META['columns'] += [c for c in old['columns'] if c['type'] == 'embedding']
+    # what makes a column's values alike (added by embed.py and by the app) stays on the column
+    near = {c['name']: c['near'] for c in old['columns'] if 'near' in c}
+    for c in META['columns']:
+        if c['name'] in near: c['near'] = near[c['name']]
     rows = []
     for z in range(1, 119):
         w, p = wp[z], ptj[z]
